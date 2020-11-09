@@ -1,0 +1,1179 @@
+annotation,speaker,utterance,neutral,anger,disgust,fear,joy,sadness,surprise
+0002120,Phoebe,"Oh my God, hes lost it. Hes totally lost it.",0,0,0,0,0,0,0
+1000130,Monica,What?,0,0,0,0,0,0,1
+3000200,Ross,"Or! Or, we could go to the bank, close our accounts and cut them off at the source.",1,0,0,0,0,0,0
+0500000,Chandler,Youre a genius!,0,0,0,0,1,0,0
+0040100,Joey,"Aww, man, now we wont be bank buddies!",0,0,0,0,0,1,0
+4000010,Chandler,"Now, theres two reasons.",1,0,0,0,0,0,0
+3100010,Phoebe,Hey.,1,0,0,0,0,0,0
+1300010,All,Hey!,0,0,0,0,1,0,0
+4100000,Phoebe,"Ohh, you guys, remember that cute client I told you about? I bit him.",1,0,0,0,0,0,0
+0000050,Rachel,Where?!,0,0,0,0,0,0,1
+5000000,Phoebe,On the touchy.,1,0,0,0,0,0,0
+3000020,Ross,And,1,0,0,0,0,0,0
+2000030,Phoebe,"No, I know!",0,0,0,0,0,0,1
+2200010,Phoebe,"I-Im sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",0,0,0,0,0,0,0
+3010010,Monica,"Well, next time your massaging him, you should try and distract yourself.",1,0,0,0,0,0,0
+2300000,Joey,Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get,0,0,0,0,1,0,0
+4100000,Chandler,"Thank you, Joey.",1,0,0,0,0,0,0
+3100001,Joey,"No-no, thank you.",1,0,0,0,0,0,0
+5000000,Joey,"Hey Estelle, listen",1,0,0,0,0,0,0
+0100130,Estelle,Well! Well! Well! Joey Tribbiani! So you came back huh? They,0,0,0,0,0,0,1
+0200030,Joey,What are you talkin about? I never left you! Youve always been my agent!,0,0,0,0,0,0,1
+0100040,Estelle,Really?!,0,0,0,0,0,0,1
+2300000,Joey,Yeah!,0,0,0,0,1,0,0
+5000000,Estelle,"Oh well, no harm, no foul.",1,0,0,0,0,0,0
+5000000,Gary,"Okay, you guys free tonight?",1,0,0,0,0,0,0
+0500000,Ross,Yeah!!,0,0,0,0,1,0,0
+1001030,Chandler,Tonight? You-you didn't say it was going to be at nighttime.,0,0,0,0,0,0,1
+3000011,Ross,Yes? Yes?! How can I help you?,1,0,0,0,0,0,0
+5000000,Guy,"Yeah, we werewe were just looking around.",1,0,0,0,0,0,0
+1000031,Ross,"Oh-oh, youre-youre fellow scholars.",0,0,0,0,0,0,1
+4000001,Ross,"What exactly were you looking for, hmm?",1,0,0,0,0,0,0
+4000001,Ross,"Perhaps,  perhaps Dr. Chester Stocks musings on the Smiledon Californicus?",1,0,0,0,0,0,0
+3000020,Guy,Uhh.,1,0,0,0,0,0,0
+1000211,Ross,"Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marions views on evolution?",0,0,0,0,0,0,0
+4000010,Woman,"Uh, actually I find Marions views far too progressionist.",1,0,0,0,0,0,0
+3000011,Ross,I find Marions views far too progressionist.,1,0,0,0,0,0,0
+1000040,Woman,"Im sorry, who are you?",0,0,0,0,0,0,1
+3100010,Ross,"Im a professor here uh, RossGeller.",1,0,0,0,0,0,0
+1000040,Woman,"Ross Geller, why do I know that name? Its uhWait!  Did you write this?",0,0,0,0,0,0,1
+0000050,Ross,Yes! Youre the person who checked out my book?!,0,0,0,0,0,0,1
+0100040,Woman,"Yknow, you look nothing like I wouldve thought. Youreyoure so young.",0,0,0,0,0,0,1
+4100000,Ross,"Well I uh, I skipped forth grade.",1,0,0,0,0,0,0
+0010400,Ross,You had no right to tell me you ever had feelings for me.,0,1,0,0,0,0,0
+0000050,Rachel,What?,0,0,0,0,0,0,1
+0010400,Ross,I was doing great with Julie before I found out about you.,0,1,0,0,0,0,0
+0020300,Rachel,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",0,1,0,0,0,0,0
+1021100,Ross,The point is I...,0,0,0,0,0,0,0
+0000401,Ross,"I don't need this right now, OK.",0,1,0,0,0,0,0
+0220100,Ross,"It, it's too late, I'm with somebody else, I'm happy.",0,0,0,0,0,0,0
+2100200,Ross,This ship has sailed.,0,0,0,0,0,0,0
+1010201,Rachel,"Alright, fine, you go ahead and you do that, alright Ross.",0,0,0,0,0,0,0
+1000301,Ross,Fine.,0,1,0,0,0,0,0
+0000500,Rachel,'Cause I don't need your stupid ship.,0,1,0,0,0,0,0
+1000400,Ross,Good.,0,1,0,0,0,0,0
+1000400,Rachel,Good.,0,1,0,0,0,0,0
+0500000,Phoebe,"Oh, it's so romantic to send people off on their honeymoon.",0,0,0,0,1,0,0
+4010000,Joey,"Yknow, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",1,0,0,0,0,0,0
+4100000,Phoebe,All in good time my love.,1,0,0,0,0,0,0
+4100000,Phoebe,All in good time.,1,0,0,0,0,0,0
+1000040,Phoebe,Oh shoot!,0,0,0,0,0,0,1
+1020011,Phoebe,I left my guitar in their apartment.,0,0,0,0,0,0,0
+5000000,Phoebe,Well you can let me in later.,1,0,0,0,0,0,0
+4000010,Joey,"I dont have a key, they took mine to give to you.",1,0,0,0,0,0,0
+0000050,Phoebe,What?! They took mine to give to you!,0,0,0,0,0,0,1
+0010040,Joey,Why would they take away our keys?,0,0,0,0,0,0,1
+0400010,Ross,Wow! It looks like we got a lot of good stuff.,0,0,0,0,1,0,0
+1400000,Rachel,"Oh we did, but my mom got us the greatest gift of all.",0,0,0,0,1,0,0
+5000000,Ross,A,1,0,0,0,0,0,0
+4100000,Rachel,No. Shes going to live with us for eight weeks.,1,0,0,0,0,0,0
+0000050,Ross,"Uh, what?",0,0,0,0,0,0,1
+0500000,Rachel,Yes! Shes gonna help us take care of the baby! Woo-hoo.,0,0,0,0,1,0,0
+0001112,Ross,WhatYoure not serious.,0,0,0,0,0,0,0
+1001012,Ross,"I mean shes a very nice woman, but there is no way we can take eight weeks of her.",0,0,0,0,0,0,0
+0001004,Ross,Shell drive us totally crazy.,0,0,1,0,0,0,0
+0400010,Mrs. Green,Hi Ross!,0,0,0,0,1,0,0
+0500000,Ross,Hi roomie!,0,0,0,0,1,0,0
+5000000,Monica,Hey! What did you decide to do about the movie?,1,0,0,0,0,0,0
+4001000,Joey,I dont know!,1,0,0,0,0,0,0
+3000002,Joey,Its not like its porn!,1,0,0,0,0,0,0
+5000000,Joey,"This is a serious, legitimate movie.",1,0,0,0,0,0,0
+4001000,Joey,Yknow?,1,0,0,0,0,0,0
+5000000,Joey,And the nudity is really important to the story.,1,0,0,0,0,0,0
+4000010,Monica,Thats what you say about porn.,1,0,0,0,0,0,0
+3010001,Joey,Youre right. Maybe I shouldnt even go on the call back.,1,0,0,0,0,0,0
+2100020,Monica,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",0,0,0,0,0,0,0
+4000010,Joey,Well thats true.,1,0,0,0,0,0,0
+4000010,Joey,And I am only naked in one scene.,1,0,0,0,0,0,0
+3200000,Joey,Plus it sounds really great.,1,0,0,0,0,0,0
+4100000,Joey,My characters catholic and he falls in love with this Jewish girl.,1,0,0,0,0,0,0
+4100000,Joey,Who run away together and they get caught in this big rainstorm.,1,0,0,0,0,0,0
+5000000,Joey,So we go into this barn and undress each other and hold each other.,1,0,0,0,0,0,0
+2300000,Joey,Its really sweet and-and tender.,0,0,0,0,1,0,0
+5000000,Joey,"Hey, whats up?",1,0,0,0,0,0,0
+0040100,Chandler,"Nothing, Monica and I had a stupid fight.",0,0,0,0,0,1,0
+3001010,Joey,"But youre still moving in together, right? Because my ad came out today.",1,0,0,0,0,0,0
+2300000,Chandler,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",0,0,0,0,1,0,0
+4000010,Joey,Yeah?,1,0,0,0,0,0,0
+4100000,Joey,"I just figured yknow, after living with you itd be an interesting change of pace to have a female roommate, yknow?",1,0,0,0,0,0,0
+4100000,Joey,"Someone I can learn from, someone-someone whos different than me.",1,0,0,0,0,0,0
+4100000,Joey,And whats more different than me; a guy whos,1,0,0,0,0,0,0
+5000000,Ross,So where are we going next?,1,0,0,0,0,0,0
+4000001,Gary,This witness won't return my calls so we're gonna see if we can surprise him coming home.,1,0,0,0,0,0,0
+0004010,Chandler,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",0,0,0,1,0,0,0
+2101001,Joey,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",0,0,0,0,0,0,0
+2000102,Gary,It's a witness not a perp. And no one talks like that!,0,0,0,0,0,0,0
+2000012,Ross,"Yeah, no one talks like that!",0,0,0,0,0,0,0
+1000301,Joey,Oh what? Like your Mr. Cop!,0,1,0,0,0,0,0
+1000301,Ross,"Hey, I'm more cop than you two!",0,1,0,0,0,0,0
+1000121,Chandler,How do you figure that?,0,0,0,0,0,0,0
+4100000,Ross,"Hello! I'm in the front seat, okay? I'm Gary's partner!",1,0,0,0,0,0,0
+5000000,Phoebe,I guess so.,1,0,0,0,0,0,0
+3100100,Rachel,Here you go. Thank you!,1,0,0,0,0,0,0
+3000020,Phoebe,"Wait, Rach! Where's the other one?",1,0,0,0,0,0,0
+1000040,Rachel,"Oh what, you-you want both of them?",0,0,0,0,0,0,1
+1000400,Phoebe,"Rachel Karen Green, where's the other earring?!",0,1,0,0,0,0,0
+0013001,Rachel,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",0,0,0,1,0,0,0
+3011000,Rachel,"I know it's in the apartment, but I",1,0,0,0,0,0,0
+1003100,Phoebe,"Well, what am I going to tell Monica? She wants to wear them tonight!",0,0,0,1,0,0,0
+2000102,Rachel,Tell her to wear her own earrings.,0,0,0,0,0,0,0
+5000000,Phoebe,These,1,0,0,0,0,0,0
+0001400,Rachel,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,0,1,0,0,0,0,0
+4000010,Phoebe,Why not?,1,0,0,0,0,0,0
+1002200,Rachel,Because I lose her stuff!,0,0,0,0,0,0,0
+5000000,Monica,"Well, youre-youre sweating.",1,0,0,0,0,0,0
+2300000,Ross,These-these are beads of joy.,0,0,0,0,1,0,0
+2000003,Monica,Oh thats sweet. Dont touch me.,0,0,1,0,0,0,0
+5000000,Ross,"Uh Phoebe, can I see you for a second?",1,0,0,0,0,0,0
+3200000,Phoebe,Yeah!,1,0,0,0,0,0,0
+4001000,Phoebe,Whats going on?,1,0,0,0,0,0,0
+0101030,Ross,Chandlers gone again!,0,0,0,0,0,0,1
+0101120,Phoebe,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,0,0,0,0,0,0,0
+4001000,Dr. Harad,Okay. You ready to push again?,1,0,0,0,0,0,0
+0010400,Phoebe,I already had a baby. Leave me alone.,0,1,0,0,0,0,0
+1400000,Frank,"Okay, okay, come on, you can do it. You can do it!",0,0,0,0,1,0,0
+0500000,Frank,Yeah!!,0,0,0,0,1,0,0
+1400000,Frank,Little Leslie is here!,0,0,0,0,1,0,0
+0200030,Frank,We got another one!,0,0,0,0,0,0,1
+0100040,Frank,"Oh my God, I can't believe I have two-two children.",0,0,0,0,0,0,1
+0002030,Frank,How scary is that?,0,0,0,0,0,0,1
+0500000,Frank,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",0,0,0,0,1,0,0
+0300020,Dr. Harad,"All right, he's coming. He's coming!",0,0,0,0,1,0,0
+0001040,Frank,"Hey, where's his thing?",0,0,0,0,0,0,1
+0100040,Frank,Chandler's a girl!,0,0,0,0,0,0,1
+0010031,Chandler,"Oh God, kindergarten flashback.",0,0,0,0,0,0,1
+0000230,Frank,They musta read the sonogram wrong.,0,0,0,0,0,0,1
+0000050,Frank,"'Cause they, 'cause they thought it was a boy, but Chandler's a girl!",0,0,0,0,0,0,1
+0200030,Frank,Chandler's a girl!,0,0,0,0,0,0,1
+0300101,Chandler,"Okay, keep saying it!",0,0,0,0,1,0,0
+3002000,Alice,Am I too late?!,1,0,0,0,0,0,0
+0500000,Frank,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",0,0,0,0,1,0,0
+0100040,Alice,We have our babies?,0,0,0,0,0,0,1
+1400000,Frank,Yeah.,0,0,0,0,1,0,0
+0500000,Alice,"Oh, we have our babies.",0,0,0,0,1,0,0
+1400000,Bob,Hey Toby!,0,0,0,0,1,0,0
+4001000,Chandler,Hey Bobby.,1,0,0,0,0,0,0
+3000101,Bob,"Its Bob actually. Hey, you work up here, can you tell me where this Chandler",1,0,0,0,0,0,0
+3001010,Chandler,"Uhh yeah. Yeah, its  right, right down there.  Right there, yeah. Can I ask you why?",1,0,0,0,0,0,0
+0000500,Bob,"I want to talk to that bastard, see what his problem is.",0,1,0,0,0,0,0
+2002001,Chandler,"Okay Bob listen uhh, Im the reason you didnt get the job up here.",0,0,0,0,0,0,0
+2000201,Bob,Toby dont.,0,0,0,0,0,0,0
+1001120,Chandler,Bob!,0,0,0,0,0,0,0
+0000410,Bob,Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,0,1,0,0,0,0,0
+1000040,Joey,Ohh!,0,0,0,0,0,0,1
+0400010,Rachel,Thank you.  Oh Joey and look at this crib! Its so cute!,0,0,0,0,1,0,0
+0300020,Joey,I know! I found it on the street.,0,0,0,0,1,0,0
+0000050,Rachel,Are you seriousReally?! Its in such good condition.,0,0,0,0,0,0,1
+4100000,Joey,Yeah.,1,0,0,0,0,0,0
+0100040,Rachel,Wow! Whoa-whoa whats under the covers?,0,0,0,0,0,0,1
+4000010,Joey,I dont know.,1,0,0,0,0,0,0
+1002020,Rachel,Its moving.,0,0,0,0,0,0,0
+0002003,Joey,Ew.,0,0,1,0,0,0,0
+0005000,Rachel,Its stillIts got a tail! Get it out of here! Get it out of here!!,0,0,0,1,0,0,0
+0103010,Joey,Ooh! Ah! Okay!,0,0,0,1,0,0,0
+3020000,Whitney,"Well, I went over to Kyles last night to pick up a few things and we got to reminiscing",1,0,0,0,0,0,0
+2120000,Kyle,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,0,0,0,0,0,0,0
+0100130,Ross,Oh just say it Kyle!,0,0,0,0,0,0,1
+2300000,Kyle,Were gonna give it another try.,0,0,0,0,1,0,0
+1000022,Phoebe,What about her whining and her constant need for attention?!,0,0,0,0,0,0,0
+3110000,Whitney,Im gonna work on that.,1,0,0,0,0,0,0
+1000202,Phoebe,"Oh right, because youre so capable of change.",0,0,0,0,0,0,0
+1200011,Ross,"Yknow, he hums when he pees!",0,0,0,0,0,0,0
+4000001,Whitney,I do know.,1,0,0,0,0,0,0
+1000004,Ross,"It makes him miss the bowl, but whatever.",0,0,1,0,0,0,0
+0050000,Whitney,Were so sorry.,0,0,0,0,0,1,0
+1020101,Ross,"Thats all right, we-we dont need you. In fact, hey Im over it already.",0,0,0,0,0,0,0
+0010400,Phoebe,"Yeah, and yknow what? I dont give a tiny rats ass.",0,1,0,0,0,0,0
+3010001,Kyle,"Yeah, were gonna go.",1,0,0,0,0,0,0
+0030002,Ross,"Im sorry. Ugh, Pheebs, you were, you were right about her. Yknow, she",0,0,0,0,0,1,0
+3100001,Phoebe,"Oh. Yknow, he hums while he does other stuff to.",1,0,0,0,0,0,0
+2010200,Ross,"Yeah, we're better off without them.",0,0,0,0,0,0,0
+1010300,Phoebe,"And yknow, even if they break up again, youd better not let him in your sad mens club!",0,1,0,0,0,0,0
+1030010,Ross,Divorced mens club.,0,0,0,0,0,1,0
+4100000,Phoebe,"Potato, Potaato.",1,0,0,0,0,0,0
+1001300,Joey,Why isnt that valet back with my Porsche?,0,1,0,0,0,0,0
+2000201,Passerby,Maybe because youve got the keys?,0,0,0,0,0,0,0
+3101000,Joey,Porsche.,1,0,0,0,0,0,0
+0000500,Rachel,This is totally your fault!,0,1,0,0,0,0,0
+0000500,Ross,My fault?! You threatened the judge!,0,1,0,0,0,0,0
+0000500,Rachel,"Well, you ripped the paper out of the court reporters machine!!",0,1,0,0,0,0,0
+2000102,Ross,"Can we, can we just forget this ever happened?",0,0,0,0,0,0,0
+2030000,Rachel,"Yes of course, absolutely! You're right. I'm sorry.",0,0,0,0,0,1,0
+4010000,Ross,Thank you.,1,0,0,0,0,0,0
+4010000,Rachel,Yes.,1,0,0,0,0,0,0
+3010001,Ross,"All right I guess I'm, gonna go pack.",1,0,0,0,0,0,0
+1013000,Rachel,"Okay. Oh wait! One more thing umm, do-do we still need to uh settle the question of ""us?""",0,0,0,1,0,0,0
+3200000,Monica,Phoebe!,1,0,0,0,0,0,0
+4000010,Phoebe,Yeah?,1,0,0,0,0,0,0
+4000001,Monica,Have you seen Chandler?!,1,0,0,0,0,0,0
+4000010,Phoebe,No! Why?,1,0,0,0,0,0,0
+2003000,Monica,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,0,0,0,1,0,0,0
+2003000,Monica,I know!,0,0,0,1,0,0,0
+1004000,Monica,How bad is this?,0,0,0,1,0,0,0
+3002000,Monica,!,1,0,0,0,0,0,0
+0004010,Phoebe,"Well for the regular guy, its bad, but Chandler, Oh dear God!",0,0,0,1,0,0,0
+0004010,Monica,I know! I know! And he totally freaked out and I cant find him anywhere!,0,0,0,1,0,0,0
+3001010,Phoebe,What are you gonna do?,1,0,0,0,0,0,0
+1000301,Monica,"Well, Im never gonna listen to you again, thats for sure!",0,1,0,0,0,0,0
+3001001,Monica,"""Yknow, harm can it do if you go and put your name down?""",1,0,0,0,0,0,0
+0000131,Phoebe,Rachel said that!,0,0,0,0,0,0,1
+1000400,Monica,Well Rachels not here!,0,1,0,0,0,0,0
+4000100,Ross,"Come on, come on.",1,0,0,0,0,0,0
+0000500,Ross,"Damnit, damnit, damnit, damnit.",0,1,0,0,0,0,0
+0000401,Ross,This is all your fault.,0,1,0,0,0,0,0
+0010211,Ross,"This is supposed to be, like, the greatest day of my life, y'know?",0,0,0,0,0,0,0
+0020300,Ross,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",0,1,0,0,0,0,0
+1210100,Susan,The woman I love is having a baby today. I've been waiting for this just as much as you have.,0,0,0,0,0,0,0
+1001111,Ross,"No no no, believe me.",0,0,0,0,0,0,0
+2000300,Ross,"No one has been waiting for this as much as I have, ok?",0,1,0,0,0,0,0
+3000110,Ross,And you know what the funny thing is?,1,0,0,0,0,0,0
+2010101,Ross,"When this day is over, you get to go home with the baby, ok?",0,0,0,0,0,0,0
+0031010,Ross,Where does that leave me?,0,0,0,0,0,1,0
+4000010,Susan,You get to be the baby's father.,1,0,0,0,0,0,0
+5000000,Susan,Everyone knows who you are.,1,0,0,0,0,0,0
+2020010,Susan,Who am I?,0,0,0,0,0,0,0
+0040001,Susan,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",0,0,0,0,0,1,0
+3100100,Ross,Every day is Lesbian Lover Day.,1,0,0,0,0,0,0
+0400001,Phoebe,This is so great.,0,0,0,0,1,0,0
+3000020,Ross,You wanna explain that?,1,0,0,0,0,0,0
+1040000,Phoebe,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",0,0,0,0,0,1,0
+1310000,Phoebe,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,0,0,0,0,1,0,0
+2210000,Phoebe,And it's not even born yet.,0,0,0,0,0,0,0
+1400000,Phoebe,"It's just, it's just the luckiest baby in the whole world.",0,0,0,0,1,0,0
+2030000,Phoebe,"I'm sorry, you were fighting.",0,0,0,0,0,1,0
+5000000,Joey,"Okay, it's a typical New York City apartment. Two girls are just hanging out.",1,0,0,0,0,0,0
+4100000,Monica,"Hi, how are you doing Kelly?",1,0,0,0,0,0,0
+0400010,Rachel,"I'm doing just fine! God, Tiffany, you smell so great!",0,0,0,0,1,0,0
+3200000,Monica,It's my new perfume. Why don't you come closer where you can,1,0,0,0,0,0,0
+0000113,Rachel,"Oh, y'know Joey, you are sick!",0,0,1,0,0,0,0
+0000005,Monica,This is disgusting!,0,0,1,0,0,0,0
+0000203,Rachel,I'm not reading this!,0,0,1,0,0,0,0
+0110030,Joey,What?! Wait-wait-wait! The handsome man was about to enter!!,0,0,0,0,0,0,1
+5000000,Joey,"All right, I'll give you this, Mr. Peanut is a better dresser.",1,0,0,0,0,0,0
+5000000,Joey,"I mean he's got the monocle, he's got the top hat...",1,0,0,0,0,0,0
+3000020,Phoebe,You know he's gay?,1,0,0,0,0,0,0
+3000020,Ross,I just wanna clarify this: are you outing Mr. Peanut?,1,0,0,0,0,0,0
+4100000,Chandler,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",1,0,0,0,0,0,0
+5000000,All,Hi. Hi.,1,0,0,0,0,0,0
+2000030,Chandler,What are you doing here?,0,0,0,0,0,0,1
+4000010,Chandler,"Well, what?",1,0,0,0,0,0,0
+3000020,Chandler,What?,1,0,0,0,0,0,0
+5000000,Chandler,What is it?,1,0,0,0,0,0,0
+2000030,Chandler,That she left you?,0,0,0,0,0,0,1
+3000020,Chandler,That she likes women?,1,0,0,0,0,0,0
+3000020,Chandler,That she left you for another woman that likes women?,1,0,0,0,0,0,0
+1000301,Ross,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",0,1,0,0,0,0,0
+4000010,Chandler,Then what?,1,0,0,0,0,0,0
+5000000,Ross,My first time with Carol was...,1,0,0,0,0,0,0
+3000020,Joey,What?,1,0,0,0,0,0,0
+5000000,Ross,It was my,1,0,0,0,0,0,0
+0000050,Joey,With Carol?  Oh.,0,0,0,0,0,0,1
+1000040,Chandler,"So in your whole life, you've only been with oneoh.",0,0,0,0,0,0,1
+1010120,Joey,"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",0,0,0,0,0,0,0
+4000010,Ross,Hi. Where is everybody?,1,0,0,0,0,0,0
+1011020,Phoebe,"Oh, its already closed, Chris gave me the keys to lock up-what is wrong?",0,0,0,0,0,0,0
+0050000,Ross,"My marriage, I think my marriage is um, is kinda over.",0,0,0,0,0,1,0
+0010040,Phoebe,Oh no! Why?,0,0,0,0,0,0,1
+1040000,Ross,"Cause Carols a lesbian.  And, and Im not one. And apparently its not a mix and match situation.",0,0,0,0,0,1,0
+0020030,Phoebe,"Oh my God! I dont believe it! Oh, you poor bunny.",0,0,0,0,0,0,1
+0000104,Ross,Im an idiot.,0,0,1,0,0,0,0
+0020012,Ross,"I mean shoulda seen it, I mean Carol and Id be out and shed, shed see some beautiful woman, and, and shed be Ross y'know look at her, and Id think, God, my wife is cool!",0,0,0,0,0,0,0
+3001010,Phoebe,"Aw! Hey, do you think that Susan person is her lover?",1,0,0,0,0,0,0
+1000130,Ross,"Well, now I do!!",0,0,0,0,0,0,1
+0050000,Phoebe,Im sorry.,0,0,0,0,0,1,0
+2030000,Ross,Seven years.,0,0,0,0,0,1,0
+1040000,Ross,"I mean weve been together seven years, shes the only woman whos ever loved me, and the only woman Ive-Ive ever....",0,0,0,0,0,1,0
+0050000,Phoebe,"Aw, God Ross. Oh.",0,0,0,0,0,1,0
+5000000,Cookie,Ill do it.,1,0,0,0,0,0,0
+3001100,Joey,No you wont.,1,0,0,0,0,0,0
+2030000,Joey,"Look he knows he did a terrible thing and I believe him, hes sorry.",0,0,0,0,0,1,0
+2010200,Joey,"But,  youve got one more apology to make, all right, youve got to apologize to Mary-Angela.",0,0,0,0,0,0,0
+1400000,Chandler,"Okay, absolutely!",0,0,0,0,1,0,0
+5000000,Joey,All right.,1,0,0,0,0,0,0
+5000000,Chandler,Youve got it.,1,0,0,0,0,0,0
+2000300,Joey,"Cookie, now you can punch him!",0,1,0,0,0,0,0
+0001040,Chandler,What?!,0,0,0,0,0,0,1
+0000401,Phoebe,"All right, that's it, I quit.",0,1,0,0,0,0,0
+0010040,Monica,What? I didn't say anything.,0,0,0,0,0,0,1
+1000112,Phoebe,"Yeah, but this  isn't the face of a person who trusts a person.",0,0,0,0,0,0,0
+1010102,Phoebe,"Ok, this  is the face of a person who, you know, doesn't trust a person.",0,0,0,0,0,0,0
+2020001,Monica,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",0,0,0,0,0,0,0
+2000300,Phoebe,Would you relax? I know what I am doing. This is how he wears it.,0,1,0,0,0,0,0
+5000000,Monica,Julie.,1,0,0,0,0,0,0
+1000121,Rachel,What?!,0,0,0,0,0,0,0
+2000030,Monica,Jody!,0,0,0,0,0,0,1
+3010010,Rachel,You were with Julie?,1,0,0,0,0,0,0
+4000100,Monica,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",1,0,0,0,0,0,0
+4000010,Monica,"And then, one thing led to another and, before I knew it, we were...shopping.",1,0,0,0,0,0,0
+0001031,Rachel,Oh. Oh my God.,0,0,0,0,0,0,1
+2011100,Monica,"Honey, wait. We only did it once. It didn't mean anything to me.",0,0,0,0,0,0,0
+1000400,Rachel,"Yeah, right.  Sure!",0,1,0,0,0,0,0
+2021000,Monica,"Really, Rachel, I was thinking of you the whole time.",0,0,0,0,0,0,0
+1031000,Monica,"Look, I'm sorry, all right.",0,0,0,0,0,1,0
+0031010,Monica,I never meant for you to find out!,0,0,0,0,0,1,0
+1000301,Rachel,"Oh, please, you wanted to get caught.",0,1,0,0,0,0,0
+1000310,Monica,That is not true!,0,1,0,0,0,0,0
+1000400,Rachel,"Oh, so you just sort of happened to leave it in here?",0,1,0,0,0,0,0
+2010101,Monica,Did it ever occur to you that I might just be that stupid?,0,0,0,0,0,0,0
+1030001,Rachel,"Ok, Monica. I just have to know one thing. Did you go with her to",0,0,0,0,0,1,0
+1300100,Phoebe,Hey!,0,0,0,0,1,0,0
+2200100,Monica,Yeah!,0,0,0,0,0,0,0
+4000100,Phoebe,I cant say.,1,0,0,0,0,0,0
+0000050,Monica,Why?!,0,0,0,0,0,0,1
+2010020,Chandler,Why not?,0,0,0,0,0,0,0
+3011000,Phoebe,I cant say because hes famous.,1,0,0,0,0,0,0
+0001040,Rachel,"Oh my God, who is it?!",0,0,0,0,0,0,1
+1101020,Monica,"Phoebe, come on, you have to tell us.",0,0,0,0,0,0,0
+2201000,Phoebe,"Okay, okay. Its James Brolin. James Brolin is the father of my baby.",0,0,0,0,0,0,0
+1000040,Chandler,As in Barbara Streisands husband James Brolin?,0,0,0,0,0,0,1
+0000230,Phoebe,What?! Well he never said that to me!,0,0,0,0,0,0,1
+5000000,Ross,In,1,0,0,0,0,0,0
+0030110,Phoebe,"Oh, this life! Oh okay no, Chandler's is worse.",0,0,0,0,0,1,0
+1210010,Joey,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",0,0,0,0,0,0,0
+5000000,Phoebe,Of course you don't sweetie. You're brand new.,1,0,0,0,0,0,0
+4010000,Rachel,I know Monica's worst Thanksgiving.,1,0,0,0,0,0,0
+1002101,Monica,"Oh, let's not tell this story.",0,0,0,0,0,0,0
+1001201,All,"Oh, come on!",0,0,0,0,0,0,0
+0200120,Phoebe,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",0,0,0,0,0,0,0
+0000050,Rachel,What?! Joey got a turkey stuck on his head?!,0,0,0,0,0,0,1
+5000000,Joey,"Hey, it's not like it sounds.",1,0,0,0,0,0,0
+5000000,Chandler,It's,1,0,0,0,0,0,0
+0000320,Monica,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",0,1,0,0,0,0,0
+5000000,Rachel,Who was that?,1,0,0,0,0,0,0
+1010201,Monica,Wendy bailed. I have no waitress.,0,0,0,0,0,0,0
+1120001,Rachel,Oh... that's too bad. Bye bye.,0,0,0,0,0,0,0
+4000001,Monica,Ten dollars an hour.,1,0,0,0,0,0,0
+5000000,Rachel,No.,1,0,0,0,0,0,0
+4000001,Monica,Twelve dollars an hour.,1,0,0,0,0,0,0
+4100000,Rachel,"Mon. I wish I could, but I've made plans to walk around.",1,0,0,0,0,0,0
+1000112,Monica,"You know, Rachel, when you ran out of your wedding, I was there for you.",0,0,0,0,0,0,0
+1000202,Monica,"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",0,0,0,0,0,0,0
+1400000,Rachel,Done.,0,0,0,0,1,0,0
+0005000,Joey,"The reactors gonna blow in three seconds, were never gonna make it!",0,0,0,1,0,0,0
+0005000,Phoebe,Youve got to get out of here! Save yourself!,0,0,0,1,0,0,0
+0014000,Joey,No! I wont leave you!,0,0,0,1,0,0,0
+2011010,Phoebe,"Dont worry about me, Im a robot! Im just a machine!!",0,0,0,0,0,0,0
+0021020,Joey,No youre not! Not to me!,0,0,0,0,0,0,0
+1001021,Phoebe,Oh my God.,0,0,0,0,0,0,0
+3000011,Joey,What?,1,0,0,0,0,0,0
+5000000,Phoebe,I am,1,0,0,0,0,0,0
+0500000,Joey,"Yeah, youre great! Okay, lets take it from",0,0,0,0,1,0,0
+0200120,Phoebe,"No, I mean I was really acting my ass off.",0,0,0,0,0,0,0
+1300001,Joey,"Yeah, I thought I was pretty good too.",0,0,0,0,1,0,0
+3100100,Phoebe,"Oh yeah, youre solid. Yeah, youre just no me.",1,0,0,0,0,0,0
+4000100,Joey,Yknow what? I think thats enough for now. Yeah. I dont want to be over rehearsed.,1,0,0,0,0,0,0
+0000311,Phoebe,Fine!,0,1,0,0,0,0,0
+0000401,Phoebe,Ill do it without you!,0,1,0,0,0,0,0
+0000302,Phoebe,I dont need you or anybody else!,0,1,0,0,0,0,0
+0100400,Phoebe,Im gonna make it on my own!,0,1,0,0,0,0,0
+0100400,Phoebe,Youll see!!,0,1,0,0,0,0,0
+4000100,Phoebe,Youll,1,0,0,0,0,0,0
+0050000,Kori,I can't believe that Ross is gone. It is just so sad.,0,0,0,0,0,1,0
+1000040,Chandler,I didn't know Ross and you were so close.,0,0,0,0,0,0,1
+1130000,Kori,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,0,0,0,0,0,1,0
+4010000,Chandler,I'm sure that would mean a lot to him.,1,0,0,0,0,0,0
+3110000,Chandler,"And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",1,0,0,0,0,0,0
+0050000,Kori,I thought so many times about calling him and asking him out.    I guess I really missed my chance.,0,0,0,0,0,1,0
+1400000,Ross,But you didn't!,0,0,0,0,1,0,0
+0500000,Ross,I'm still alive!!,0,0,0,0,1,0,0
+2300000,Ross,"Kori, I know this is a big surprise for you.",0,0,0,0,1,0,0
+0500000,Ross,It's a long story but the things    you just said really made my day!,0,0,0,0,1,0,0
+1400000,Ross,"I mean, the fact that you are here means more    to me than if this room were filled with people!",0,0,0,0,1,0,0
+0000302,Kori,"You sick freak, who does that? I can't believe I had a crush on    you!",0,1,0,0,0,0,0
+0200120,Ross,Did you hear that? Kori Weston had a crush on me!!,0,0,0,0,0,0,0
+4000100,Dr. Long,Well do a quick check.,1,0,0,0,0,0,0
+5000000,Rachel,Okay.,1,0,0,0,0,0,0
+1000040,Dr. Long,"So, eight days late huh?",0,0,0,0,0,0,1
+4001000,Rachel,Yeah.,1,0,0,0,0,0,0
+4000010,Dr. Long,You must be a little uncomfortable.,1,0,0,0,0,0,0
+4000100,Rachel,"Eh, just a tad.",1,0,0,0,0,0,0
+5000000,Dr. Long,"Youre about 80 percent effaced, so youre on your way.",1,0,0,0,0,0,0
+5000000,Dr. Long,It still could last a little while longer.,1,0,0,0,0,0,0
+5000000,Dr. Long,If youre anxious there are a few ways to help things along.,1,0,0,0,0,0,0
+2000210,Ross,Do them!!,0,0,0,0,0,0,0
+5000000,Dr. Long,"Actually, theyre things you can do. Just some home remedies, but in my experience Ive found that some of them are quite effective.",1,0,0,0,0,0,0
+4000100,Rachel,"Well, we are ready to try anything.",1,0,0,0,0,0,0
+5000000,Dr. Long,"Okay, theres an herbal tea you can drink.",1,0,0,0,0,0,0
+5000000,Rachel,Okay.,1,0,0,0,0,0,0
+1002020,Chandler,What is wrong with Emma?,0,0,0,0,0,0,0
+5000000,Monica,"Oh she misunderstood, she thought she was moving to Tulsa.",1,0,0,0,0,0,0
+5000000,Carol,Anytime you're ready.,1,0,0,0,0,0,0
+4001000,Ross,"Ok, ok, here we go.",1,0,0,0,0,0,0
+4000010,Ross,"Ok, where am I talking to, here?",1,0,0,0,0,0,0
+5000000,Ross,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",1,0,0,0,0,0,0
+5000000,Carol,Just aim for the bump.,1,0,0,0,0,0,0
+4001000,Ross,"Ok, ok, ok, ok, here goes.",1,0,0,0,0,0,0
+1103000,Ross,"You know, I, you know, can't do this.",0,0,0,1,0,0,0
+0002003,Ross,"Uh, this is too weird.",0,0,1,0,0,0,0
+1030001,Ross,I feel stupid.,0,0,0,0,0,1,0
+4000010,Carol,"So don't do it, it's fine. You don't have to do it just because Susan does it.",1,0,0,0,0,0,0
+2300000,Ross,"Hello, baby. Hello, hello.",0,0,0,0,1,0,0
+1300010,Rachel,Hello!,0,0,0,0,1,0,0
+5000000,Mark,"Oh, hi. Its Mark.",1,0,0,0,0,0,0
+5000000,Rachel,Oh.,1,0,0,0,0,0,0
+1003010,Mark,What? Is it my breath?,0,0,0,1,0,0,0
+0000140,Rachel,Ow!,0,0,0,0,0,0,1
+5000000,Ross,Rach?,1,0,0,0,0,0,0
+0001130,Rachel,Ow! Ow!,0,0,0,0,0,0,1
+1003010,Ross,Easy. Easy. You have to go to the hospital. Okay?,0,0,0,1,0,0,0
+3020000,Rachel,"Okay, I do.",1,0,0,0,0,0,0
+5000000,Ross,Okay.,1,0,0,0,0,0,0
+2012000,Rachel,I really do.,0,0,0,0,0,0,0
+4001000,Ross,"Okay, Im gonna get your coat and then Ill-Ill put you in a cab.",1,0,0,0,0,0,0
+1002020,Rachel,"Okay. Oh wait, wait-wait, youre not gonna come with me?",0,0,0,0,0,0,0
+2000030,Ross,Of course I am. I just have to make a call.,0,0,0,0,0,0,1
+5000000,Rachel,Okay.,1,0,0,0,0,0,0
+5000000,Ross,Okay?,1,0,0,0,0,0,0
+0000131,Rachel,Thank you.  Oww!!!! God!,0,0,0,0,0,0,1
+1002020,Ross,"What?! I wh-, whats wrong?",0,0,0,0,0,0,0
+1000103,Rachel,"Im sorry, I just cant go to the hospital lookin like this.",0,0,1,0,0,0,0
+3101000,TV Announcer,"Pete Becker is circling the ring now. It looks like, hes just trying to feel him out. Oh, Bruiser is just...",1,0,0,0,0,0,0
+0003200,Chandler,"Run! Run you crazy, rich freak!",0,0,0,1,0,0,0
+0005000,Rachel,"Oh, I cant watch this.",0,0,0,1,0,0,0
+0200030,Joey,"Check it out, hes winning!  Petes winning!",0,0,0,0,0,0,1
+0100040,Monica,Really?!,0,0,0,0,0,0,1
+0013100,Joey,No-o-o!!,0,0,0,1,0,0,0
+0004010,TV Announcer,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",0,0,0,1,0,0,0
+1002020,All,Oh! Oh!,0,0,0,0,0,0,0
+0010040,Phoebe,"Wait, if thats his favourite area, why is he being so mean to it?",0,0,0,0,0,0,1
+2000030,Ross,"Well, this is ironic.",0,0,0,0,0,0,1
+3000020,Ross,"Of your last two boyfriends, Richard didnt want to have kids, and from the looks of it, now Pete cant.",1,0,0,0,0,0,0
+0010310,Joey,"Dude, you dont have to brag! We got nothing here!!",0,1,0,0,0,0,0
+3000020,Chandler,Should we tell Rachel theres an empty private room right next door to hers?,1,0,0,0,0,0,0
+2300000,Monica,"We could, or we can have sex in it.",0,0,0,0,1,0,0
+0500000,Chandler,"Well let me think about that, while I remove my pants!",0,0,0,0,1,0,0
+1100021,Rachel,I thought I was a complete idiot.,0,0,0,0,0,0,0
+4000010,Joey,"Hey, Im with you. He even asked me if I thought youd go out with him.",1,0,0,0,0,0,0
+0001013,Rachel,"Oh! Oh, I think Im gonna throw up a little bit. What did you say?",0,0,1,0,0,0,0
+4100000,Joey,I said no.,1,0,0,0,0,0,0
+0000050,Rachel,What?!,0,0,0,0,0,0,1
+1000040,Joey,What? II just figured since youre pregnant youre not gonna be seeing people.,0,0,0,0,0,0,1
+0000320,Rachel,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",0,1,0,0,0,0,0
+2002010,Joey,I didnt tell him. I didnt know if you were telling people. This is back when I thought Kash was still people.,0,0,0,0,0,0,0
+1210100,Rachel,"Good-good, dont tell him. Dont tell him. Just have him call me okay?",0,0,0,0,0,0,0
+2030000,Joey,"Rach look, I really dont think thats such a great",0,0,0,0,0,1,0
+0300110,Rachel,"Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!",0,0,0,0,1,0,0
+4000010,Rachel,"Ohh, here you are. I was looking for you before. Joshuas gone so you and Emily are free to go.",1,0,0,0,0,0,0
+5000000,Ross,Thats okay.,1,0,0,0,0,0,0
+3010100,Ross,"Shes still in there enjoying her fake party and uh, its too late to do any of the things I had planned, so",1,0,0,0,0,0,0
+1000310,Ross,Ah! Ah! I forgot my jacket!,0,1,0,0,0,0,0
+4001000,Rachel,"Oh, wait-wait-wait",1,0,0,0,0,0,0
+0001400,Ross,You tell them to wait!,0,1,0,0,0,0,0
+3001100,Rachel,Okay. Wait! Wait!,1,0,0,0,0,0,0
+5000000,Ross,Emily.,1,0,0,0,0,0,0
+0001310,Ross,Oh no-no-no! Oh-no!  No! No! Emily!,0,1,0,0,0,0,0
+5000000,Monica,Hey. Call me when you get there. Okay?,1,0,0,0,0,0,0
+5000000,Rachel,Okay.,1,0,0,0,0,0,0
+1000202,The Hot Girl,I know. You're the guy who wouldn't chip in for the handyman.,0,0,0,0,0,0,0
+1010300,Ross,Nevermind!,0,1,0,0,0,0,0
+3000002,The Hot Girl,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",1,0,0,0,0,0,0
+5000000,Ross,I,1,0,0,0,0,0,0
+5000000,The Hot Girl,Jen.,1,0,0,0,0,0,0
+4001000,Ross,"Jen, I know this may sound a little But uh, would you maybe wanna grab a cup of coffee sometime, or",1,0,0,0,0,0,0
+0500000,Jen,Sure! That would be nice.,0,0,0,0,1,0,0
+5000000,Ross,Umm?,1,0,0,0,0,0,0
+1200020,Jen,Oh! My number is on there.  Give me a call.,0,0,0,0,0,0,0
+4100000,Ross,I will give you a call.,1,0,0,0,0,0,0
+5000000,Jen,I'll see you later.,1,0,0,0,0,0,0
+0300020,Ross,Okay!,0,0,0,0,1,0,0
+5000000,Jen,I forgot my paper.,1,0,0,0,0,0,0
+3002000,Chandler,"Here we go. Okay, brace yourselves.",1,0,0,0,0,0,0
+3000020,Monica,What?,1,0,0,0,0,0,0
+5000000,Rachel,Okay.,1,0,0,0,0,0,0
+1001030,Monica,Ow!,0,0,0,0,0,0,1
+3000020,Phoebe,Arent you gonna go?,1,0,0,0,0,0,0
+3000002,Rachel,No. Thank you.,1,0,0,0,0,0,0
+4000001,Monica,"No, Rachel never pees in public restrooms.",1,0,0,0,0,0,0
+3000002,Rachel,"Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.  Well, if everybodys going.",1,0,0,0,0,0,0
+4000010,Phoebe,"No, y'know what dont close it  cause the... keys...are in there.",1,0,0,0,0,0,0
+0003110,Chandler,"Oh, no-no-no-no-no-no!!",0,0,0,1,0,0,0
+3000020,Joey,Whats going on?,1,0,0,0,0,0,0
+1003010,Chandler,My lighters in there!,0,0,0,1,0,0,0
+5000000,Rachel,I promise.,1,0,0,0,0,0,0
+5000000,Phoebe,"Although, dont feel like you cant visit.",1,0,0,0,0,0,0
+5000000,Joey,"Hey, is, is, is Chandler here?",1,0,0,0,0,0,0
+5000000,Ross,"No, no hes not.",1,0,0,0,0,0,0
+0010040,Monica,"You guys, Joey just saw Janice kissing her ex-husband.",0,0,0,0,0,0,1
+2000030,Ross,"What?  So what are you going to do? I mean how, how are you going to tell Chandler?",0,0,0,0,0,0,1
+4001000,Joey,"Well, I was thinking about that and I, I think the best way would be, to not.",1,0,0,0,0,0,0
+4000010,Rachel,"Joey, you cant keep this to yourself, if you know about this, you have to tell him.",1,0,0,0,0,0,0
+1020101,Joey,"Itll kill him. I mean itll, itll just kill him.",0,0,0,0,0,0,0
+5000000,Phoebe,"Well, you could wait til I go to the dentist, maybe",1,0,0,0,0,0,0
+1400000,Carol,Hi!,0,0,0,0,1,0,0
+4100000,Ross,Hey.,1,0,0,0,0,0,0
+3000020,Carol,"Hey, what are you doing here?",1,0,0,0,0,0,0
+4001000,Ross,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",1,0,0,0,0,0,0
+4010000,Carol,"Ah yeah, but now its Susan and me in Mexico and the hostages coming home.",1,0,0,0,0,0,0
+3010010,Ross,Wheres Ben?,1,0,0,0,0,0,0
+4010000,Carol,Hes sleeping.,1,0,0,0,0,0,0
+2000030,Ross,"Ahh.  Ooh, is this a ah, is this a bad time?",0,0,0,0,0,0,1
+2200010,Carol,"Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.",0,0,0,0,0,0,0
+0000050,Ross,"Oh! I thought you guys got married in uh, January?",0,0,0,0,0,0,1
+4100000,Carol,Its not that kind of anniversary.,1,0,0,0,0,0,0
+2000030,Ross,Ah!  Oh.,0,0,0,0,0,0,1
+3000020,Carol,Sooo!! Anyway...,1,0,0,0,0,0,0
+3100010,Monica,Where are we gonna find a tiny little hat?,1,0,0,0,0,0,0
+0400010,Rachel,"Oh, oh, oh, Ill get Rainy Day Bear!!",0,0,0,0,1,0,0
+0400010,Monica,"Because hell know what to do?  Oh my God, youre a genius!",0,0,0,0,1,0,0
+2100020,Rachel,"Oh God, oh God, its sowed on though.",0,0,0,0,0,0,0
+3000110,Monica,Give it. Give it.,1,0,0,0,0,0,0
+4001000,Rachel,Okay.,1,0,0,0,0,0,0
+0000050,Monica and Rachel,Oh!!,0,0,0,0,0,0,1
+0120002,Rachel,"Oh, its just like a bloodbath in here today.",0,0,0,0,0,0,0
+1000400,Ross,Please. This is so your fault.,0,1,0,0,0,0,0
+1000130,Susan,"How, how is this my fault?",0,0,0,0,0,0,1
+1000400,Ross,"Look, Carol never threw me out of a room before you came along.",0,1,0,0,0,0,0
+1000400,Susan,"Yeah? Well, there's a lot of things Carol never did before I came along.",0,1,0,0,0,0,0
+0000500,Ross,You tryin' to be clever? A funny lady?,0,1,0,0,0,0,0
+1000400,Susan,You know what your problem is? You're threatened by me.,0,1,0,0,0,0,0
+1000310,Ross,"Oh, I'm threatened by you?",0,1,0,0,0,0,0
+2000300,Susan,Yes.,0,1,0,0,0,0,0
+1000310,Phoebe,"Hey, hey, ok, all right, that's it!",0,1,0,0,0,0,0
+2000300,Phoebe,Get in here.,0,1,0,0,0,0,0
+3000200,Phoebe,Come on.,1,0,0,0,0,0,0
+2000201,Phoebe,"My god, you guys, I don't believe you.",0,0,0,0,0,0,0
+1000301,Phoebe,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,0,1,0,0,0,0,0
+0000401,Phoebe,"So just stop all the yelling, just stop it!",0,1,0,0,0,0,0
+3000200,Ross,"Yeah, Susan.",1,0,0,0,0,0,0
+1001300,Phoebe,"Don't make me do this again, I don't like my voice like this.",0,1,0,0,0,0,0
+5000000,Phoebe,"Ok, who wants to hear something ironic?",1,0,0,0,0,0,0
+1000130,Phoebe,"Oh! Here it is!  Ooh, Joey! Why did you sign it, ""Son of a bitch?""",0,0,0,0,0,0,1
+0000230,Joey,I didnt do that! Who wouldve done that?!,0,0,0,0,0,0,1
+1000400,The Dry Cleaner,Son of a bitch!,0,1,0,0,0,0,0
+5000000,Phoebe,"Okay, maybe ask this guy.",1,0,0,0,0,0,0
+5000000,Joey,"Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",1,0,0,0,0,0,0
+2000021,Chandler,"Yknow sometimes the good ideas are just right in front of you, arent they?",0,0,0,0,0,0,0
+5000000,Joey,"Okay, I know it sounds crazy, but I think it might work. Yknow? The only problem is, Carls acting is",1,0,0,0,0,0,0
+5000000,Monica,The,1,0,0,0,0,0,0
+4000100,Joey,"Yeah, hes the reason I didnt get that big",1,0,0,0,0,0,0
+5000000,Carl,"Hey, uh can I get a little piece of that cake?",1,0,0,0,0,0,0
+0000500,Joey,Pizza!! We like Pizza!! Get out!!!,0,1,0,0,0,0,0
+4100000,Waitress,"Hey Monica, theres a customer who wants to complement the chef, should I let him in?",1,0,0,0,0,0,0
+0500000,Monica,"Sure, I love this part!",0,0,0,0,1,0,0
+5000000,Waitress,Come on in.,1,0,0,0,0,0,0
+0300020,Joey,"Really? In the moment, I really wanted to kiss you too. In the moment.",0,0,0,0,1,0,0
+5000000,Janine,"In the moment, yeah.",1,0,0,0,0,0,0
+1200020,Joey,But only in the moment. So do ya wanna kiss again?,0,0,0,0,0,0,0
+4000010,Janine,"Sure, New Years Eve is only two weeks away. Can you wait?",1,0,0,0,0,0,0
+3200000,Joey,No.,1,0,0,0,0,0,0
+3200000,Janine,Me neither.,1,0,0,0,0,0,0
+4100000,Joey,"3, 2,",1,0,0,0,0,0,0
+1100021,Janine,"Joey, you dont have to count down every time we kiss.",0,0,0,0,0,0,0
+2100020,Joey,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",0,0,0,0,0,0,0
+0000050,Rachel,Wow... Wow!,0,0,0,0,0,0,1
+5000000,Barry,Yeah.,1,0,0,0,0,0,0
+4000010,Monica,Alright. Phoebe?,1,0,0,0,0,0,0
+4000100,Phoebe,"Okay, okay.",1,0,0,0,0,0,0
+1400000,Phoebe,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",0,0,0,0,1,0,0
+3000110,Ross,"Yeah, see.. you took mine. Chandler, what about you?",1,0,0,0,0,0,0
+4000001,Chandler,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",1,0,0,0,0,0,0
+1000004,Rachel,"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes.""",0,0,1,0,0,0,0
+4100000,All,"Hey Joey. Hi. Hey, buddy.",1,0,0,0,0,0,0
+4000010,Monica,"Hey, Joey, what would you do if you were omnipotent?",1,0,0,0,0,0,0
+2000102,Joey,Probably kill myself!,0,0,0,0,0,0,0
+1000040,Monica,..Excuse me?,0,0,0,0,0,0,1
+0030011,Joey,"Hey, if Little Joey's dead, then I got no reason to live!",0,0,0,0,0,1,0
+1001030,Ross,"Joey, uh-",0,0,0,0,0,0,1
+4100000,Joey,You,1,0,0,0,0,0,0
+0050000,Kate,Im sorry.,0,0,0,0,0,1,0
+2100110,Stage Manager,"Joey, onstage!",0,0,0,0,0,0,0
+1031000,Joey,Well can you at least stay to the end of the play?,0,0,0,0,0,1,0
+0050000,Joey,"I mean, Ill go to the airport with ya, I-I wanna say good bye.",0,0,0,0,0,1,0
+3002000,Lauren,Where are you Vic?,1,0,0,0,0,0,0
+1040000,Kate,Flights in an hour. I-I gotta go.,0,0,0,0,0,1,0
+1001111,Lauren,Vic! Vic!,0,0,0,0,0,0,0
+1000301,Joey,In a minute!!,0,1,0,0,0,0,0
+1040000,Lauren,So this is it? Victor?,0,0,0,0,0,1,0
+1040000,Joey,"Yeah, I guess it is.",0,0,0,0,0,1,0
+0050000,Joey,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",0,0,0,0,0,1,0
+0050000,Joey,"One thing you gotta know, is that I will never forget you.",0,0,0,0,0,1,0
+1040000,Joey,"But, youve got things you have to do now, and so do I.",0,0,0,0,0,1,0
+2030000,Joey,"And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.",0,0,0,0,0,1,0
+1040000,Joey,"But when I return, 200 years from now, youll be long gone.",0,0,0,0,0,1,0
+4010000,Joey,But I wont have aged at all.,1,0,0,0,0,0,0
+3110000,Joey,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, Im gonna want to meet her.",1,0,0,0,0,0,0
+0040001,Lauren,"So long, Vic!",0,0,0,0,0,1,0
+5000000,Ross,I have to say,1,0,0,0,0,0,0
+1210010,Rachel,Nooo Way! The most romantic song ever is,0,0,0,0,0,0,0
+3011000,Phoebe,"See, I-I think that one that Elton John wrote for, um, that guy on",1,0,0,0,0,0,0
+4000010,Rachel,"What song was that, Pheebs?",1,0,0,0,0,0,0
+1400000,Phoebe,Hi Monica!,0,0,0,0,1,0,0
+1400000,Ross,Hey Mon!,0,0,0,0,1,0,0
+1400000,Rachel,Hey Mon!,0,0,0,0,1,0,0
+0000050,Phoebe,"Oh my God, has she slept at all?",0,0,0,0,0,0,1
+3020000,Ross,Nope.,1,0,0,0,0,0,0
+4010000,Rachel,"No, it's been three nights in a row.",1,0,0,0,0,0,0
+3020000,Ross,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",1,0,0,0,0,0,0
+3010001,Phoebe,"Oh, okay that explains it.",1,0,0,0,0,0,0
+3010001,Phoebe,"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",1,0,0,0,0,0,0
+1010012,Phoebe,But then I realized where would a mouse or a opossum get the money to make the phone call.,0,0,0,0,0,0,0
+4001000,Chandler,"So uh, man, are you gonna go to the play with me tonight?",1,0,0,0,0,0,0
+0000005,Ross,"Yknow what, I dont know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",0,0,1,0,0,0,0
+3020000,Chandler,"Yeah, I know but",1,0,0,0,0,0,0
+3200000,Ross,"Oh no-no-no, Im there.",1,0,0,0,0,0,0
+0100031,Monica,Hey!,0,0,0,0,0,0,1
+1400000,Joey,Hey Mon! Want some pancakes?,0,0,0,0,1,0,0
+1100030,Monica,You made pancakes?,0,0,0,0,0,0,1
+0500000,Joey,Yep! Grab a plate.,0,0,0,0,1,0,0
+4001000,Monica,Okay.,1,0,0,0,0,0,0
+4001000,Joey,"No-no, stay right there.  Gettin closer.",1,0,0,0,0,0,0
+4100000,Chandler,"Okay, okay, but dont worry, because we also have cereals, muffins, waffles,",1,0,0,0,0,0,0
+4001000,Joey,"Listen also were uh, were watching the game here Saturday night, if people want to come over.",1,0,0,0,0,0,0
+0400010,Ross,Oh yeah!,0,0,0,0,1,0,0
+5000000,Chandler,"Yes, if the foxhole was lined with sandwiches.",1,0,0,0,0,0,0
+5000000,Joey,"Yeah, hero sandwiches.",1,0,0,0,0,0,0
+3001001,Phoebe,Well you all know that I'm a pacifist so I'm not interested in war in any way.,1,0,0,0,0,0,0
+5000000,Phoebe,But y'know what?,1,0,0,0,0,0,0
+3100100,Phoebe,"When the revolution comes, I will have to destroy you all.",1,0,0,0,0,0,0
+5000000,Phoebe,Not you Joey.,1,0,0,0,0,0,0
+1000040,Chandler,Oh my good God.,0,0,0,0,0,0,1
+3200000,Monica,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",1,0,0,0,0,0,0
+0100310,Chandler,"Look, you have done enough! Okay? You have to stop this now.",0,1,0,0,0,0,0
+2300000,Monica,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",0,0,0,0,1,0,0
+4000010,Chandler,"Oh, the mixed tape.",1,0,0,0,0,0,0
+2300000,Monica,The Way You Look Tonight,0,0,0,0,1,0,0
+2300000,Monica,You are just the sweetest.,0,0,0,0,1,0,0
+1400000,Chandler,No! Youre the sweetest!,0,0,0,0,1,0,0
+0500000,Monica,Hey!,0,0,0,0,1,0,0
+0500000,Phoebe,Hey!,0,0,0,0,1,0,0
+5000000,Monica,"Hey, guess what Im doing tonight.",1,0,0,0,0,0,0
+4000010,Phoebe,What?,1,0,0,0,0,0,0
+5000000,Monica,Im checking out the restaurant with Pete.,1,0,0,0,0,0,0
+0500000,Phoebe,"Ohh, Monica, I am so excited for you.",0,0,0,0,1,0,0
+0100220,Phoebe,Wait-wait-wait! Wait!!,0,0,0,0,0,0,0
+4001000,Ross,"So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",1,0,0,0,0,0,0
+1300010,Carol,"Ooh, actually Ive been making a list of all the women I know who might be into doing this!",0,0,0,0,1,0,0
+0100040,Ross,"Oh.  Wow!  Huh.  Boy!  Well, someones been doing their homework.",0,0,0,0,0,0,1
+3200000,Carol,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",1,0,0,0,0,0,0
+3100010,Ross,"Oh, I know.  Yknow, just-just talking about it is getting me kinda",1,0,0,0,0,0,0
+4100000,Carol,"Oh, me too.",1,0,0,0,0,0,0
+0400100,Ross,"and then, we couldve gone from the ceremony to the reception with you in the sidecar!",0,0,0,0,1,0,0
+4010000,Rachel,"Ross, it just wouldnt have been feasible.",1,0,0,0,0,0,0
+1000121,Ross,But having a dove place the ring on your finger wouldve been no problem?,0,0,0,0,0,0,0
+2300000,Rachel,It was really fun being married to you tonight.,0,0,0,0,1,0,0
+0500000,Ross,"Yeah! And! And, it was the easiest 400 bucks Ive ever made.",0,0,0,0,1,0,0
+2002010,Rachel,"Okay Ross, can I uh, can I ask you something?",0,0,0,0,0,0,0
+5000000,Ross,Yeah.,1,0,0,0,0,0,0
+3101000,Rachel,"That proposal, at the planetarium",1,0,0,0,0,0,0
+0041000,Ross,"I know, I know it was stupid.",0,0,0,0,0,1,0
+1000040,Rachel,Are you kidding?!,0,0,0,0,0,0,1
+1400000,Rachel,"With the, with the lilies, and-and the song, and the stars!",0,0,0,0,1,0,0
+0500000,Rachel,It wasreally wonderful!,0,0,0,0,1,0,0
+2000030,Rachel,Did you just make that up?,0,0,0,0,0,0,1
+3200000,Ross,"No, actually I thought about it when, when we were going out.",1,0,0,0,0,0,0
+4100000,Ross,"Its how I imagined I uh, I would ask you to marry me.",1,0,0,0,0,0,0
+3110000,Rachel,"Well, that wouldve been very hard to say no too.",1,0,0,0,0,0,0
+3110000,Ross,"Its a good thing I didnt do it, because it sounds like it wouldve been a very expensive wedding.  Okay, good night",1,0,0,0,0,0,0
+5000000,Rachel,Goodnight,1,0,0,0,0,0,0
+3000020,Ross,Even if the sidecar had a windscreen so your hair wouldnt get messed up?,1,0,0,0,0,0,0
+5000000,Rachel,I will think about it.,1,0,0,0,0,0,0
+5000000,Ross,Thats all Im askin,1,0,0,0,0,0,0
+0110030,Rachel,"You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldnt feel bad!",0,0,0,0,0,0,1
+2010002,Monica,"Well actually, I-I didnt eat mine. Its still in the bathroom.",0,0,0,0,0,0,0
+4100000,Joey,"No it isnt, I ate that.",1,0,0,0,0,0,0
+4000001,Mrs. Geller,Well we left ours in Monicas bedroom.,1,0,0,0,0,0,0
+4100000,Joey,"Nope, got it and I got yours  too.",1,0,0,0,0,0,0
+5000000,Joey,"Okay, so we went to the beach, because Phoebe found out about this lady who knew her mom and dad, and I dont really know what happened with that.",1,0,0,0,0,0,0
+1400000,Rachel,And thats Im so glad theres no problem.,0,0,0,0,1,0,0
+3200000,Joanna,"Thats fine, actually Im on the hiring committee, so therell be at least one friendly face.",1,0,0,0,0,0,0
+0400010,Rachel,Ohh! Thats great!,0,0,0,0,1,0,0
+5000000,Joanna,"You know, Junior Miss is where I started. Oh, I had to sleep with the",1,0,0,0,0,0,0
+0000050,Rachel,Really?!,0,0,0,0,0,0,1
+0200021,Joanna,No-ho-ho!,0,0,0,0,0,0,0
+3020000,Joanna,Yeah.,1,0,0,0,0,0,0
+3000002,Joanna,"I mean, no-no-no-no-no, dont you worry, Im sure with your qualifications you wont need to sleep with some guy to get that job.",1,0,0,0,0,0,0
+4000001,Joanna,"Although, I might need some convincing.",1,0,0,0,0,0,0
+2002010,Rachel,"Well, I, umm",0,0,0,0,0,0,0
+0500000,Joanna,"Kidding! God, I feel wild today!",0,0,0,0,1,0,0
+0000050,Phoebe,Oh my God! Chandler just left though!,0,0,0,0,0,0,1
+4001000,Rachel,"Yeah but, maybe its not what we think. Maybe its tell Monica Im sorry Idrank the last of the milk.",1,0,0,0,0,0,0
+3010010,Phoebe,"Or maybe he-he was writing to tell her that-that hes changed his name, yknow? Tell Monica Im sorry.",1,0,0,0,0,0,0
+0001130,Ross,I think it means he freaked out and left!,0,0,0,0,0,0,1
+0000212,Phoebe,Dont be so negative! Good God! Isnt it possible that Sorry is sitting in there  right now?!,0,0,0,0,0,0,0
+2001020,Rachel,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",0,0,0,0,0,0,0
+3002000,Ross,"LookOkay, Im just gonnaIm gonna have to go find him and bring him back!",1,0,0,0,0,0,0
+3000020,Ross,Okay?,1,0,0,0,0,0,0
+3002000,Ross,"You-you make sure Monica does not find out, okay?",1,0,0,0,0,0,0
+5000000,Rachel,Okay.,1,0,0,0,0,0,0
+5000000,Phoebe,Okay,1,0,0,0,0,0,0
+4001000,Ross,"I will, I will find him.",1,0,0,0,0,0,0
+0400010,Rachel,Hey!,0,0,0,0,1,0,0
+0300020,All,Hi! Hey!,0,0,0,0,1,0,0
+4100000,Rachel,Do you guys know any cute guys?,1,0,0,0,0,0,0
+2300000,Chandler,"Well, of course I do! My good friend Joey over here.",0,0,0,0,1,0,0
+1120100,Joey,"Oh, Im sorry. Thank you Chandler.",0,0,0,0,0,0,0
+4100000,Rachel,"Anyway, theres this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",1,0,0,0,0,0,0
+4000010,Monica,Whats the charity?,1,0,0,0,0,0,0
+5000000,Rachel,"I dont know, something either trees or diseaseRalph mumbles a lot.",1,0,0,0,0,0,0
+5000000,Monica,Does Ralph mumble when youre not paying attention?,1,0,0,0,0,0,0
+1000040,Rachel,Yeah! Its weird. But the thing is need to find a date.,0,0,0,0,0,0,1
+4000010,Phoebe,"Well, what kind of guy are you looking for?",1,0,0,0,0,0,0
+0400010,Rachel,Hey!,0,0,0,0,1,0,0
+5000000,Ross,What are you guys doing later?,1,0,0,0,0,0,0
+4100000,Phoebe,"Oh, Rachel and I have appointments to get our hair cut.",1,0,0,0,0,0,0
+0000050,Rachel,We do?,0,0,0,0,0,0,1
+5000000,Phoebe,I want to see what he wants first.,1,0,0,0,0,0,0
+5000000,Rachel,Okay.,1,0,0,0,0,0,0
+2100011,Ross,I just found out that Elizabeths dad wants to meet me.,0,0,0,0,0,0,0
+0000050,Chandler,"Wait a minute, hold the phone! Youre not Elizabeths dad?!",0,0,0,0,0,0,1
+0014000,Ross,"Come on guys, I-I really want this guy to like me.",0,0,0,1,0,0,0
+2102000,Ross,It-it would really help me out if you guys were here to make me look good.,0,0,0,0,0,0,0
+1300010,All,Of course well help! Yeah! Well be here!,0,0,0,0,1,0,0
+0500000,Ross,Thanks!,0,0,0,0,1,0,0
+4000001,Monica,We know how tough those parent/teacher conferences can be.,1,0,0,0,0,0,0
+0300020,Rachel,"Oh, hi! How are you doing?",0,0,0,0,1,0,0
+2030000,Tag,I'm okay. I gotta go down to the police station and look at mug shots.,0,0,0,0,0,1,0
+3010010,Rachel,Oh.,1,0,0,0,0,0,0
+4100000,Tag,"Thanks for having me over, you guys.",1,0,0,0,0,0,0
+4000010,Ross,Tag?,1,0,0,0,0,0,0
+2010020,Ross,Y-You're going?,0,0,0,0,0,0,0
+5000000,Ross,"Uh we didn't, uh we didn't get the chance to talk.",1,0,0,0,0,0,0
+4000010,Ross,"Uh, so, where did you say you're from again?",1,0,0,0,0,0,0
+5000000,Tag,Colorado.,1,0,0,0,0,0,0
+3000101,Ross,"Ah, what good are you.",1,0,0,0,0,0,0
+4001000,Rachel,"Look, um, I think we should talk about what happened on the terrace.",1,0,0,0,0,0,0
+5000000,Tag,Okay.,1,0,0,0,0,0,0
+1040000,Rachel,"Ah, I-I never should have said what I said.",0,0,0,0,0,1,0
+4000010,Rachel,Ityknow what?,1,0,0,0,0,0,0
+2030000,Rachel,It just doesn't matter how I feel.,0,0,0,0,0,1,0
+2030000,Rachel,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",0,0,0,0,0,1,0
+5000000,Tag,"Um, I'm not.",1,0,0,0,0,0,0
+0040001,Rachel,"Oh, god, I knew it, that I freaked you out.",0,0,0,0,0,1,0
+1030010,Tag,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",0,0,0,0,0,1,0
+1000040,Rachel,Really?,0,0,0,0,0,0,1
+2012000,Tag,"Yeah, so, please don't fire me for doing this.",0,0,0,0,0,0,0
+5000000,Rachel,"Okay, well, that's one less thing we have to do on Monday.",1,0,0,0,0,0,0
+0200210,Ross,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",0,0,0,0,0,0,0
+3100001,Chandler,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",1,0,0,0,0,0,0
+0400010,Ross,Pass it! Pass it!,0,0,0,0,1,0,0
+0400010,Chandler,He's open!,0,0,0,0,1,0,0
+0400010,All,Shoot! Shoot! Shoot!,0,0,0,0,1,0,0
+0200030,Chandler,"Hey, look, we're on that TV thing!",0,0,0,0,0,0,1
+0400010,Rachel,I am so psyched I kept this chair for myself!,0,0,0,0,1,0,0
+3200000,Joey,"Yeah, me too.",1,0,0,0,0,0,0
+5000000,Rachel,"Hey, howshows the uh, miracle chair?",1,0,0,0,0,0,0
+5000000,Joey,Fine.,1,0,0,0,0,0,0
+0100040,Rachel,"Yeah? Wow! Yknow, that this thing has speakers in the headrest!",0,0,0,0,0,0,1
+2000030,Joey,No. Really?,0,0,0,0,0,0,1
+2200010,Rachel,Yeah! You can hook it up to your TV,0,0,0,0,0,0,0
+4100000,Joey,My chair heals itself.,1,0,0,0,0,0,0
+0000410,Phoebe,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",0,1,0,0,0,0,0
+2200100,Joey,"Yes! Yes, I did.",0,0,0,0,0,0,0
+2100200,Phoebe,Then do Iceberg!,0,0,0,0,0,0,0
+4000100,Joey,G-sharp.,1,0,0,0,0,0,0
+5000000,Phoebe,G,1,0,0,0,0,0,0
+0000230,Joey,What?! I didn't touch a guitar!,0,0,0,0,0,0,1
+0100400,Phoebe,"No, but you're questioning my method!",0,1,0,0,0,0,0
+0000401,Joey,"No, I'm not questioning it, I'm saying it's stupid!  What?!",0,1,0,0,0,0,0
+4100000,Monica,Thank you.,1,0,0,0,0,0,0
+2010101,Phoebe,Y'know none of my other student thought I was stupid.,0,0,0,0,0,0,0
+2000300,Joey,"Your other student, was you!",0,1,0,0,0,0,0
+1000400,Phoebe,"Yeah, well, y'know maybe you just need to try a little harder!",0,1,0,0,0,0,0
+0000500,Joey,"Look, maybe I need to try a real teacher!",0,1,0,0,0,0,0
+2000210,Joey,Right here!,0,0,0,0,0,0,0
+2000300,Joey,Here!,0,1,0,0,0,0,0
+4000100,Joey,"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",1,0,0,0,0,0,0
+0000401,Phoebe,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,0,1,0,0,0,0,0
+4010000,Rachel,"""Baddest man in the whole damn town.""",1,0,0,0,0,0,0
+0000401,Phoebe,"Oh, fine! Take his side!",0,1,0,0,0,0,0
+0000401,Ross,"And shame on you! You should know better, Joey needs to work.  Now come on!",0,1,0,0,0,0,0
+1100300,Joey,Hey!,0,1,0,0,0,0,0
+0001211,Ross,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,0,0,0,0,0,0,0
+1400000,Rachel,Hi!,0,0,0,0,1,0,0
+5000000,Ross,Hi.,1,0,0,0,0,0,0
+1012100,Rachel,"Hi.  Umm, I think theres something that we really need to talk about.",0,0,0,0,0,0,0
+1031000,Ross,"I think we do. Why dont we go inside?  Look uh, I know why youre here.",0,0,0,0,0,1,0
+0000050,Rachel,You do?,0,0,0,0,0,0,1
+5000000,Ross,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",1,0,0,0,0,0,0
+4000010,Rachel,Okay.,1,0,0,0,0,0,0
+5000000,Ross,"Okay.  Uh, Ross and Rachel. Rachel and Ross. Thats been one heck of a see-saw hasnt it?",1,0,0,0,0,0,0
+0000050,Rachel,What?,0,0,0,0,0,0,1
+2021000,Ross,"I mean look, that-that one night we had was fun andand certainly passionate, but dont you think its better if we just stayed friends?",0,0,0,0,0,0,0
+0000140,Rachel,Seriously. What?!,0,0,0,0,0,0,1
+5000000,Ross,Okay.,1,0,0,0,0,0,0
+4000010,Ross,Okay.,1,0,0,0,0,0,0
+4000010,Ross,Yknow what?,1,0,0,0,0,0,0
+3200000,Ross,"If you want to, we can do it one more time.",1,0,0,0,0,0,0
+3001010,Ross,I mean Id-Id be okay with that.,1,0,0,0,0,0,0
+3200000,Ross,"In fact, I have some time right now.",1,0,0,0,0,0,0
+2000210,Rachel,"Okay, yknow what? Can I, can I talk now?",0,0,0,0,0,0,0
+4000010,Ross,Oh sure.,1,0,0,0,0,0,0
+0100310,Rachel,"Im pregnant.  Ross?  Ross?  Okay, whenever youre ready.  And youre the father by the waybut you got that",0,1,0,0,0,0,0
+3200000,Rachel,We should defiantly play football more often. Maybe theres a like league we could join or something.,1,0,0,0,0,0,0
+0400010,Chandler,I know!,0,0,0,0,1,0,0
+0200030,Ross,"Yes! Wow, well, that-that was easy. Okay, you-you go.",0,0,0,0,0,0,1
+5000000,Chandler,Okay.,1,0,0,0,0,0,0
+5000000,Ross,Okay.,1,0,0,0,0,0,0
+2300000,Chandler,"Okay, you know, you know when your in bed, with a woman.",0,0,0,0,1,0,0
+3100010,Ross,Hmph.,1,0,0,0,0,0,0
+2300000,Chandler,"And, ah, you know, your fooling around with her.",0,0,0,0,1,0,0
+2300000,Chandler,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",0,0,0,0,1,0,0
+0300020,Ross,"With the belly-button ring? Oh, muhawa!",0,0,0,0,1,0,0
+0001022,Chandler,"I know, And then all of the sudden your Mom pops into your head.",0,0,0,0,0,0,0
+0000311,Chandler,"And your like 'Mom, get outta here!'",0,1,0,0,0,0,0
+2010110,Chandler,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",0,0,0,0,0,0,0
+3020000,Chandler,"So it's kinda like, you're, you know.",1,0,0,0,0,0,0
+1000031,Chandler,You know.... You don't know!,0,0,0,0,0,0,1
+0000113,Ross,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",0,0,1,0,0,0,0
+5000000,Chandler,You said...,1,0,0,0,0,0,0
+5000000,Ross,I said ',1,0,0,0,0,0,0
+0100040,Phoebe,Oh!,0,0,0,0,0,0,1
+0200030,Ross,Look at Emma!,0,0,0,0,0,0,1
+5000000,Phoebe,"I just cant decide who she looks more alike, you or Rachel?",1,0,0,0,0,0,0
+2200010,Ross,"Oh what are you kidding? Shes gorgeous, its all Rachel.",0,0,0,0,0,0,0
+4000001,Phoebe,"Im sorry, for the last time, why arent you two together again?",1,0,0,0,0,0,0
+4010000,Phoebe,"No, I know.",1,0,0,0,0,0,0
+4010000,Phoebe,"I know, because youre not in that place.",1,0,0,0,0,0,0
+4010000,Phoebe,"Which would be fine, except you totally are.",1,0,0,0,0,0,0
+1040000,Ross,Itsits complicated okay?,0,0,0,0,0,1,0
+4010000,Phoebe,"Yeah thats true. Yeah, you love her. You always have. You have a child together. There is no right answer.",1,0,0,0,0,0,0
+2030000,Ross,"Look, weve been together.",0,0,0,0,0,1,0
+3020000,Ross,Okay?,1,0,0,0,0,0,0
+2030000,Ross,"And then apart, and then together, and then apart, and now we have a baby.",0,0,0,0,0,1,0
+2030000,Ross,Its just if-if we got together again and it didnt work outI could never do that to Emma.,0,0,0,0,0,1,0
+2030000,Ross,I mean she-she thinking everything Oh thatsnow me.,0,0,0,0,0,1,0
+3000020,Ross,What do they put something in the water in this place?,1,0,0,0,0,0,0
+1220000,Ross,"Since Rachel and I were doing really, were doing really well right now.",0,0,0,0,0,0,0
+4001000,Phoebe,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",1,0,0,0,0,0,0
+3020000,Ross,"Yeah, exactly.",1,0,0,0,0,0,0
+3100001,Phoebe,Right.  Or you might get everything youve wanted since you were fifteen.,1,0,0,0,0,0,0
+1400000,Rachel,God. I forgot how much I love driving. I have,0,0,0,0,1,0,0
+5000000,Ross,You dont have a,1,0,0,0,0,0,0
+3000011,Rachel,"Oh Ross youre so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",1,0,0,0,0,0,0
+0000212,Ross,What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!,0,0,0,0,0,0,0
+1300001,Rachel,"I am not horsing around, okay? I am Porsching around.",0,0,0,0,1,0,0
+0003020,Rachel,Uh-oh.,0,0,0,1,0,0,0
+4001000,Ross,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",1,0,0,0,0,0,0
+0003020,Rachel,Really? You think so?,0,0,0,1,0,0,0
+1101011,Ross,I was talking to myself! Youre going down!,0,0,0,0,0,0,0
+0500000,Monica,Hey honey! I missed you today!,0,0,0,0,1,0,0
+0100040,Chandler,"Oh, yeah?",0,0,0,0,0,0,1
+3200000,Monica,Yeah.  What d'you wanna do tonight?,1,0,0,0,0,0,0
+3200000,Chandler,"Oh, well... Maybe we could...",1,0,0,0,0,0,0
+2100011,Monica,"Ok, trying to turn me on by making a mess?",0,0,0,0,0,0,0
+2200001,Monica,Know your audience!,0,0,0,0,0,0,0
+4100000,Monica,"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",1,0,0,0,0,0,0
+2010020,Chandler,We really need to take those tests?,0,0,0,0,0,0,0
+3020000,Monica,"Honey, we've been trying to have a baby for over a year.",1,0,0,0,0,0,0
+3011000,Monica,I think    it's a good idea to find out if everything's ok. Just a few routine tests.,1,0,0,0,0,0,0
+1002002,Chandler,But I don't wanna do it in a cup!,0,0,0,0,0,0,0
+3200000,Phoebe,"Oh, hi Max! Hey, do you know everybody?",1,0,0,0,0,0,0
+5000000,Max,No. Have you seen David?,1,0,0,0,0,0,0
+4000010,Phoebe,"No, no, he hasn't been around.",1,0,0,0,0,0,0
+4100000,Max,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",1,0,0,0,0,0,0
+0000050,Phoebe,Minsk?,0,0,0,0,0,0,1
+4100000,Max,Minsk. It's in Russia.,1,0,0,0,0,0,0
+4000001,Phoebe,I know where Minsk is.,1,0,0,0,0,0,0
+2300000,Max,"We got the grant. Three years, all expenses paid.",0,0,0,0,1,0,0
+4010000,Phoebe,"So when, when do you leave?",1,0,0,0,0,0,0
+4100000,Max,January first.,1,0,0,0,0,0,0
+2001020,Elizabeth,You wanted to see me Professor Geller?,0,0,0,0,0,0,0
+3200000,Ross,"Yes. Yes! Please, come in.",1,0,0,0,0,0,0
+0102020,Ross,Oo-oo!,0,0,0,0,0,0,0
+1300001,Joey,Pretty great! Except I did get a little attitude from the robot.,0,0,0,0,1,0,0
+1000211,Chandler,"Damn those robots, theyre supposed to be our",0,0,0,0,0,0,0
+4000001,Joey,"Anyway, it wasnt the robot, it was the guy who controls him.",1,0,0,0,0,0,0
+2010101,Joey,"Yeah, he doesnt like me.",0,0,0,0,0,0,0
+4000001,Joey,He had C.H.E.E.S.E.,1,0,0,0,0,0,0
+0110201,Joey,knock over the sandwich right when I was reaching for one!,0,0,0,0,0,0,0
+0000050,Joey,Ohh!,0,0,0,0,0,0,1
+2000021,Phoebe,"Well, why dont you just get him fired?",0,0,0,0,0,0,0
+1000211,Joey,"I may have to, I hate to do it, but Im the star!",0,0,0,0,0,0,0
+3000011,Joey,Yknow?,1,0,0,0,0,0,0
+3000101,Joey,Theres a limit to how many sandwiches I can eat off the floor.,1,0,0,0,0,0,0
+4000001,Joey,Excuse me.,1,0,0,0,0,0,0
+5000000,Joey,Joey Tribbiani.,1,0,0,0,0,0,0
+2200010,Estelle,"Joe! Im glad I found ya, I got an audition for ya!",0,0,0,0,0,0,0
+0100040,Joey,Wow!,0,0,0,0,0,0,1
+5000000,Estelle,The thing is its kinda on the Q.T.,1,0,0,0,0,0,0
+5000000,Estelle,The actor who has the part doesnt know he might be fired.,1,0,0,0,0,0,0
+5000000,Estelle,"Its the lead in a series, Mac and C.H.E.E.S.E.",1,0,0,0,0,0,0
+2200100,Joey,Im the lead in Mac and C.H.E.E.S.E.!!,0,0,0,0,0,0,0
+0001040,Estelle,Uh-oh!,0,0,0,0,0,0,1
+1000112,Monica,Oh good God! If you want a baby so bad just go steal it!,0,0,0,0,0,0,0
+1000130,Monica,What is going on with you? Since when are you so crazy about babies?,0,0,0,0,0,0,1
+1200110,Chandler,Im not crazy about babies. Im crazy about us.,0,0,0,0,0,0,0
+1000040,Monica,What?,0,0,0,0,0,0,1
+5000000,Chandler,"Look, weve always talked about having babies someday.",1,0,0,0,0,0,0
+4000010,Chandler,"Im not saying it has to be right now, but Im starting to think that we can handle it.",1,0,0,0,0,0,0
+3200000,Chandler,Were good.,1,0,0,0,0,0,0
+2300000,Chandler,Were really good.,0,0,0,0,1,0,0
+0000050,Monica,"Oh, did you catch him?!",0,0,0,0,0,0,1
+3101000,Phoebe,Uh-huh.,1,0,0,0,0,0,0
+0002030,Ross,Wh-what did he say?!,0,0,0,0,0,0,1
+4010000,Phoebe,"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?",1,0,0,0,0,0,0
+0000140,Rachel,Why?! Why not?!,0,0,0,0,0,0,1
+0002111,Phoebe,"Come on, you saw the way he ran out of here!",0,0,0,0,0,0,0
+3001010,Phoebe,What do you think?,1,0,0,0,0,0,0
+0010112,Phoebe,He's gonna stick around and talk to the daughter he abandoned!,0,0,0,0,0,0,0
+4000010,Joey,What did you say to him?,1,0,0,0,0,0,0
+3010100,Phoebe,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",1,0,0,0,0,0,0
+5000000,Rachel,"Oh yeah, sure.",1,0,0,0,0,0,0
+2300000,Rachel,"Okay, in about ten seconds youre gonna see him kiss me.",0,0,0,0,1,0,0
+3000011,Ross,And in about five seconds youre gonna see why.,1,0,0,0,0,0,0
+5000000,Rachel,Ross did I ever tell you about the time that I went backpacking through Western Europe?,1,0,0,0,0,0,0
+2110100,Rachel,"Okay, get ready to see some beggin!",0,0,0,0,0,0,0
+0000140,Phoebe,"Oh, you came on to Ross!",0,0,0,0,0,0,1
+0000140,Rachel,What?!,0,0,0,0,0,0,1
+0500000,Ross,Now Im so happy.,0,0,0,0,1,0,0
+0000050,Rachel,What are you talking about?!,0,0,0,0,0,0,1
+2000120,Monica,You used the Europe story!,0,0,0,0,0,0,0
+2200100,Chandler,Thats the magic story you use when you wanna have sex!,0,0,0,0,0,0,0
+0000050,Rachel,How do you know about that story?!,0,0,0,0,0,0,1
+4000010,Joey,How do,1,0,0,0,0,0,0
+3101000,Rachel,I heard it from my friend Irene who heard it from some guy!,1,0,0,0,0,0,0
+0000140,Joey,Some guy!!,0,0,0,0,0,0,1
+4001000,Rachel,"No. No, she told me his name was Ken Adams.",1,0,0,0,0,0,0
+0000140,Joey,Ken Adams!!,0,0,0,0,0,0,1
+5000000,Ross,"How we doing, you guys ready?",1,0,0,0,0,0,0
+4000010,Monica,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?,1,0,0,0,0,0,0
+4000001,Ross,Some days it's all I can think about.,1,0,0,0,0,0,0
+5000000,Phoebe,"Hi, sorry I'm late, I couldn't find my bearings.",1,0,0,0,0,0,0
+5000000,Ross,"Oh... ok, fine.",1,0,0,0,0,0,0
+5000000,Ross,But... ehm...,1,0,0,0,0,0,0
+5000000,Ross,"I just have one question for you,    ehm...",1,0,0,0,0,0,0
+5000000,Ross,"When we exit should we walk, or run, or prance,    or stroll...",1,0,0,0,0,0,0
+1101101,Charlie,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",0,0,0,0,0,0,0
+1000130,Phoebe,I cant believe this! How long as this been going on?,0,0,0,0,0,0,1
+5000000,Monica,"Well umm, Alexandra has been",1,0,0,0,0,0,0
+2000030,Phoebe,"Oh, it has a name?",0,0,0,0,0,0,1
+1011110,Monica,"Phoebe, dont get upset!",0,0,0,0,0,0,0
+0000302,Phoebe,OkayOop! Too late! Im leaving! Come on Chandler lets go!,0,1,0,0,0,0,0
+3000200,Chandler,"Well, Phoebe I thought IdYeah, what the hell.",1,0,0,0,0,0,0
+0102020,Joey,Ben!,0,0,0,0,0,0,0
+2100002,Chandler,"Oh, that's good. Maybe he'll hear you and pull the cord.",0,0,0,0,0,0,0
+1004000,Joey,Stop the bus! Wait! Wait! Wait!,0,0,0,1,0,0,0
+3100010,Monica,Are you sure he didn't break it because it really hurts?,1,0,0,0,0,0,0
+5000000,Doctor,"No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",1,0,0,0,0,0,0
+0041000,Ross,"Oh, I'm sorry, I'm really sorry.",0,0,0,0,0,1,0
+0041000,Ross,Sorry.,0,0,0,0,0,1,0
+0021101,Ross,Sorry!,0,0,0,0,0,0,0
+1001210,Ross,Hey!,0,0,0,0,0,0,0
+1100210,Ross,Hey!,0,0,0,0,0,0,0
+1010120,Ross,I got my s's back!,0,0,0,0,0,0,0
+4010000,Ross,Which we can celebrate later.,1,0,0,0,0,0,0
+5000000,Ross,Celebrate.,1,0,0,0,0,0,0
+2000102,Rachel,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",0,0,0,0,0,0,0
+1011020,Monica,"Rachel, how did this happen?",0,0,0,0,0,0,0
+2020010,Rachel,"I don't know, I just kinda ran into him last night.",0,0,0,0,0,0,0
+4000010,Phoebe,Where?,1,0,0,0,0,0,0
+5000000,Rachel,At his apartment. Is this juice?,1,0,0,0,0,0,0
+1000022,Joey,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",0,0,0,0,0,0,0
+1020002,Rachel,"Oh God, I know I'm a pathetic loser.",0,0,0,0,0,0,0
+1000031,Phoebe,"I licked my arm, what?",0,0,0,0,0,0,1
+4000001,Ross,It's breast milk.,1,0,0,0,0,0,0
+3000011,Phoebe,So?,1,0,0,0,0,0,0
+4000001,Rachel,"Phoebe, that is juice, squeezed from a person.",1,0,0,0,0,0,0
+2000120,Joey,What is the big deal?,0,0,0,0,0,0,0
+1000130,Chandler,What did you just do?,0,0,0,0,0,0,1
+1000004,Ross,"Ok, would people stop drinking the breast milk?",0,0,1,0,0,0,0
+3000020,Phoebe,You won't even taste it?,1,0,0,0,0,0,0
+0000113,Ross,No!,0,0,1,0,0,0,0
+3000020,Phoebe,Not even if you just pretend that it's milk?,1,0,0,0,0,0,0
+1000004,Ross,Not even if Carol's breast had a picture of a missing child on it.,0,0,1,0,0,0,0
+0100040,All,Aww!,0,0,0,0,0,0,1
+0500000,Rachel,Thats funny.,0,0,0,0,1,0,0
+0000005,Ross,"Hey Pheebs, could you please not put your feet up on my newold sheet?",0,0,1,0,0,0,0
+1001021,Phoebe,Oh sure!  Noo!,0,0,0,0,0,0,0
+0000050,Rachel,Ohh!!,0,0,0,0,0,0,1
+0000230,Ross,My apothecary table!!!,0,0,0,0,0,0,1
+1000130,Phoebe,What?!,0,0,0,0,0,0,1
+0001211,Rachel,Noooooo!!,0,0,0,0,0,0,0
+1000040,Phoebe,"Ross, where did you get this?!",0,0,0,0,0,0,1
+5000000,Ross,I got it at,1,0,0,0,0,0,0
+1000121,Rachel,"Oh my God, Phoebe,",0,0,0,0,0,0,0
+0100220,Phoebe,"Wow! Oh my God, well if theyve ripped off our table ours must be much more than one and fifty dollars!",0,0,0,0,0,0,0
+3100001,Rachel,Oh yes.,1,0,0,0,0,0,0
+0000014,Phoebe,Well this doesnt even smell like opium.,0,0,1,0,0,0,0
+0000500,Ross,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",0,1,0,0,0,0,0
+1200002,Phoebe,"Oh Ross, calm down, Ill give you the 80 cents.",0,0,0,0,0,0,0
+2012000,Rachel,How is she?,0,0,0,0,0,0,0
+3011000,Phoebe,"It's too soon to tell. She's resting, which is a good sign.",1,0,0,0,0,0,0
+3002000,Ross,How's the hair?,1,0,0,0,0,0,0
+1031000,Phoebe,"I'm not gonna lie to you, Ross, it doesn't look good.",0,0,0,0,0,1,0
+3110000,Phoebe,"I put a clip on one side, which seems to have stopped the curling.",1,0,0,0,0,0,0
+3020000,Joey,Can we see her?,1,0,0,0,0,0,0
+1031000,Phoebe,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",0,0,0,0,0,1,0
+1120001,Ross,Yeah.,0,0,0,0,0,0,0
+2120000,Joey,How're you doing?,0,0,0,0,0,0,0
+4010000,Chandler,Of course the packaging does appeal to grown-ups and kids alike.,1,0,0,0,0,0,0
+2100011,Carol,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",0,0,0,0,0,0,0
+1001003,Ross,That would be no.,0,0,1,0,0,0,0
+4000010,Phoebe,Come on. It doesn't taste bad.,1,0,0,0,0,0,0
+2200010,Joey,"Yeah, it's kinda sweet, sorta like, uh...",0,0,0,0,0,0,0
+2200010,Susan,Cantaloupe juice.,0,0,0,0,0,0,0
+2200010,Joey,Exactly.,0,0,0,0,0,0,0
+2000030,Ross,You've tasted it? You've tasted it.,0,0,0,0,0,0,1
+3100010,Susan,Uh huh.,1,0,0,0,0,0,0
+2000111,Ross,"Oh, you've tasted it.",0,0,0,0,0,0,0
+4000001,Susan,"You can keep saying it, but it won't stop being true.",1,0,0,0,0,0,0
+2001002,Ross,Gimme the bottle.  Gimme the towel.,0,0,0,0,0,0,0
+0000221,Monica,I still don't get why Greg and Jenny would give us a fake number.,0,0,0,0,0,0,0
+4000001,Joey,"Yknow, if they knew what they were doing they probably didnt give you real names either.",1,0,0,0,0,0,0
+2000111,Monica,"Okay, maybe people give out fake numbers, but they dont give out fake names.",0,0,0,0,0,0,0
+3200000,Joey,"Oh yeah?  Hi, Ken Adams, nice to meet you.",1,0,0,0,0,0,0
+4100000,Phoebe,Regina Philange.,1,0,0,0,0,0,0
+0010031,Chandler,"I still dont get it, we didnt do anything wrong.",0,0,0,0,0,0,1
+2000021,Monica,"I know! Although, you did tell an awful lot of jokes.",0,0,0,0,0,0,0
+1100030,Chandler,I thought you said those jokes were funny. Joke! Joke! Joke!,0,0,0,0,0,0,1
+2100002,Monica,Joke. Joke. Blah! Blah!,0,0,0,0,0,0,0
+2000102,Chandler,Well maybe it was all of your questions.,0,0,0,0,0,0,0
+1000121,Monica,What about my questions?,0,0,0,0,0,0,0
+3020000,Cliff,"No, Im sorry. Its just my foot itches like crazy.",1,0,0,0,0,0,0
+4000010,Phoebe,"Oh, Ill get it.",1,0,0,0,0,0,0
+1000040,Cliff,Wow! I usually get to know a girl a little better before I let her spoon me.,0,0,0,0,0,0,1
+2100011,Phoebe,"Relax, its not like were forking.",0,0,0,0,0,0,0
+1300010,Monica,"Look at it! Ohhh! Wallpapers a little faded, thats okay. Carpets a little loose. Hardwood floors!!",0,0,0,0,1,0,0
+2200010,Phoebe,Hey!,0,0,0,0,0,0,0
+5000000,Chandler,Hello.,1,0,0,0,0,0,0
+0300020,Phoebe,Oh! Ooh! Oh Monica! Its so beautiful.,0,0,0,0,1,0,0
+0300020,Monica,I know!!!,0,0,0,0,1,0,0
+2300000,Phoebe,"So, Im here, ready to play.",0,0,0,0,1,0,0
+4100000,Monica,Okay.,1,0,0,0,0,0,0
+1400000,Phoebe,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",0,0,0,0,1,0,0
+1000040,Monica,Whats this?,0,0,0,0,0,0,1
+2300000,Phoebe,"Thats a dog, every house should have a dog.",0,0,0,0,1,0,0
+1001030,Monica,Not one that can pee on the roof.,0,0,0,0,0,0,1
+2100011,Phoebe,"Well, maybe its so big because the house was built on radioactive waste.",0,0,0,0,0,0,0
+1000031,Chandler,And is this in case the house sneezes?,0,0,0,0,0,0,1
+4000001,Phoebe,"No, no, thats the ghost for the attic.",1,0,0,0,0,0,0
+0004001,Monica,I dont want a ghost.,0,0,0,1,0,0,0
+4000001,Phoebe,"Well, nobody wants a ghost. But youve got one, because the house is sitting on an ancient Indian burial ground.",1,0,0,0,0,0,0
+1001030,Ross,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",0,0,0,0,0,0,1
+3000011,Phoebe,"Okay, obviously you dont know much about the U.S. government.",1,0,0,0,0,0,0
+0100040,Rachel,Hey!,0,0,0,0,0,0,1
+5000000,All,Hello.,1,0,0,0,0,0,0
+1100120,Rachel,I need to talk to you!,0,0,0,0,0,0,0
+4000010,Ross,"Sure, whats up?",1,0,0,0,0,0,0
+2000201,Jeannine,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",0,0,0,0,0,0,0
+0010004,Monica,"Please, I'm not going for anything.",0,0,1,0,0,0,0
+1200110,Jeannine,"Well, if you don't, I will.",0,0,0,0,0,0,0
+1000112,Monica,Would you please go?,0,0,0,0,0,0,0
+0100220,Ross,I would!,0,0,0,0,0,0,0
+0500000,Monica,"Hey, guys, guys, did you see my new, china cabinet?!",0,0,0,0,1,0,0
+5000000,Ross and Rachel,Uh-huh.,1,0,0,0,0,0,0
+2200010,Phoebe,"Watch, watch.",0,0,0,0,0,0,0
+0000050,Ross and Rachel,Ooohhhh!!,0,0,0,0,0,0,1
+1210010,Phoebe,"And, and!",0,0,0,0,0,0,0
+0000050,Ross and Rachel,Ahhhh!!,0,0,0,0,0,0,1
+0100040,Chandler,"Hey, my Fathers house does that!",0,0,0,0,0,0,1
+3200000,Rachel,"O-o-o-okay, how did it go? Tell me everything.",1,0,0,0,0,0,0
+3200000,Chandler,"Well, the movie was great, dinner was great, and theres nothing like a cool, crisp New York evening.",1,0,0,0,0,0,0
+5000000,Rachel,Hmm.,1,0,0,0,0,0,0
+0000203,Chandler,"Of course, I didnt get to enjoy any of that, because Joannas such a",0,0,1,0,0,0,0
+5000000,Monica,Okay. Its Emma.,1,0,0,0,0,0,0
+1000022,Rachel,Emma!  See? I dont want it.,0,0,0,0,0,0,0
+4100000,Monica,Take it.,1,0,0,0,0,0,0
+3100010,Rachel,What?,1,0,0,0,0,0,0
+4100000,Monica,Its clearly an Emma.,1,0,0,0,0,0,0
+2120000,Rachel,"Oh honey, but you love that name.",0,0,0,0,0,0,0
+0500000,Monica,"Yeah, but I love you more.",0,0,0,0,1,0,0
+3100100,Monica,"Besides yknow, nothing goes with Bing.",1,0,0,0,0,0,0
+1110101,Monica,So Im screwed.,0,0,0,0,0,0,0
+3100010,Monica,"I mean  Oh, hi Emma.",1,0,0,0,0,0,0
+3200000,Monica,"Yeah, thats you.",1,0,0,0,0,0,0
+1400000,Monica,Youre our little Em.,0,0,0,0,1,0,0
+0200030,Monica,Oh whats that honey?,0,0,0,0,0,0,1
+1100030,Monica,What?,0,0,0,0,0,0,1
+1100030,Monica,"Oh, you want a little cousin?",0,0,0,0,0,0,1
+1200020,Monica,You want a cousin right now?,0,0,0,0,0,0,0
+1200020,Monica,!,0,0,0,0,0,0,0
+0300110,Chandler,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" Im happy all the time!",0,0,0,0,1,0,0
+2100002,Chandler,Nice try.,0,0,0,0,0,0,0
+0112010,Monica,"Wait, wait, wait!",0,0,0,0,0,0,0
+5000000,Chandler,"Look, Monica",1,0,0,0,0,0,0
+1000031,Monica,Look!,0,0,0,0,0,0,1
+1021001,Chandler,This is not going to work.,0,0,0,0,0,0,0
+1300010,Monica,I bet this will work!,0,0,0,0,1,0,0
+0500000,Chandler,You are so great! I love you!,0,0,0,0,1,0,0
+1000040,Monica,What?,0,0,0,0,0,0,1
+1102010,Chandler,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",0,0,0,0,0,0,0
+0110030,Monica,You said you loved me! I can't believe this!,0,0,0,0,0,0,1
+0002201,Chandler,No I didn't!,0,0,0,0,0,0,0
+0200210,Monica,"Yes, you did!",0,0,0,0,0,0,0
+0002201,Chandler,No I didn't!,0,0,0,0,0,0,0
+0300020,Monica,You love me!,0,0,0,0,1,0,0
+0001400,Chandler,No I don't! Stop it! Stop it! Stop it! Stop it!,0,1,0,0,0,0,0
+4000010,Monica,Hello Greg?,1,0,0,0,0,0,0
+4000010,Monica,"Hi, this is Monica from the plane?",1,0,0,0,0,0,0
+2000300,Monica,"Listen, the number that you gave me 853-5   That is their old number!",0,1,0,0,0,0,0
+1000310,Monica,Jennys been giving it out since they moved!,0,1,0,0,0,0,0
+1200011,Chandler,Jenny! That is so Jenny!,0,0,0,0,0,0,0
+4001000,Monica,"Hey listen umm, how would you like to get together?",1,0,0,0,0,0,0
+4001000,Monica,Say next Saturday?,1,0,0,0,0,0,0
+3011000,Monica,"Okay, how about Sunday?",1,0,0,0,0,0,0
+2021000,Monica,"Okay umm, the week after that?",0,0,0,0,0,0,0
+2020100,Monica,The week after that?,0,0,0,0,0,0,0
+0000320,Monica,Yknow what Greg?,0,1,0,0,0,0,0
+0000320,Monica,Yknow what?,0,1,0,0,0,0,0
+1110200,Monica,"We are good, interesting, funny people with",0,0,0,0,0,0,0
+3000020,Joey,Hey Chandler! Yknow that girl you went to college with who-who became a movie director?,1,0,0,0,0,0,0
+5000000,Chandler,"Oh yeah, Dana Keystone. She was in my Movement class.",1,0,0,0,0,0,0
+4000010,Phoebe,Whats a Movement class?,1,0,0,0,0,0,0
+5000000,Monica,Its Chandlers way of pretending he didnt take mime.,1,0,0,0,0,0,0
+1300010,Joey,"Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!",0,0,0,0,1,0,0
+5000000,Chandler,"Oh, I dont know man. I havent talked to her in like ten years.",1,0,0,0,0,0,0
+5000000,Phoebe,I am.,1,0,0,0,0,0,0
+3000020,Rachel,"Joey, what are you talking about? Youre a terrific actor.",1,0,0,0,0,0,0
+0000050,Joey,You really think so?,0,0,0,0,0,0,1
+0000032,Rachel,"Ugh, how can you even ask that question?!",0,0,0,0,0,0,1
+1000040,Joey,Ross! Get a shot of this. (He's carrying an issue of the,0,0,0,0,0,0,1
+1201010,Phoebe,"Oh, okay, I'm having another one!",0,0,0,0,0,0,0
+1001030,Phoebe,"This one doesn't hurt eitherOoh, yes it does!",0,0,0,0,0,0,1
+0012011,Phoebe,Ow!,0,0,0,0,0,0,0
+0012011,Phoebe,Ow!,0,0,0,0,0,0,0
+0012011,Phoebe,Ow!,0,0,0,0,0,0,0
+0012011,Phoebe,Ow!,0,0,0,0,0,0,0
+0101030,Phoebe,Ooh!,0,0,0,0,0,0,1
+2020010,Phoebe,"Oh, I was kinda hoping that was it.",0,0,0,0,0,0,0
+5000000,Ross,"Hey, where are Monica and Rachel anyway?",1,0,0,0,0,0,0
+2200010,Joey,"All right. Hey, but it better make me look really, really good.  Oh, and another thing, the video camera? Nice!!",0,0,0,0,0,0,0
+1300010,Frank,"Yeah, I love you. Okay, bye!  Hi!",0,0,0,0,1,0,0
+1300010,Rachel,Hi!,0,0,0,0,1,0,0
+0004010,Frank,"That was Alice's mom, she said she left five hours ago. She should be here by now!",0,0,0,1,0,0,0
+5000000,Rachel,"Oh, honey, dont worry. She's gonna make it on time.",1,0,0,0,0,0,0
+4100000,Frank,Yeah.,1,0,0,0,0,0,0
+4000001,Monica,I guess I set up the video camera to try and entice Joey.,1,0,0,0,0,0,0
+2120000,Joey,But sadly I could not be enticed.,0,0,0,0,0,0,0
+1000013,Ross,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,0,0,1,0,0,0,0
+1010102,Monica,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,0,0,0,0,0,0,0
+2000111,Joey,"Well, I think we've all learned something about who's disgusting and who's not.",0,0,0,0,0,0,0
+5000000,Joey,Eh?,1,0,0,0,0,0,0
+5000000,Joey,"All right, now, I'm going to get back to my bucket.",1,0,0,0,0,0,0
+5000000,Joey,"I'm only eating the skin, so the chicken's up for grabs.",1,0,0,0,0,0,0
+2100020,Chandler,"I couldn't find anything at Joey--Hey-hey, oh hey!",0,0,0,0,0,0,0
+4000010,Phoebe,"Ohh, okay, they gave you the old time pricing.",1,0,0,0,0,0,0
+5000000,Rachel,Yeah.,1,0,0,0,0,0,0
+5000000,Phoebe,"Well, what period is it from?",1,0,0,0,0,0,0
+5000000,Rachel,"Uh, its from yore. Like the days of yore. Yknow?",1,0,0,0,0,0,0
+4100000,Phoebe,"Yes, yes I do.",1,0,0,0,0,0,0
+0500000,Phoebe,"God, oh its just perfect!",0,0,0,0,1,0,0
+0300020,Phoebe,Wow!,0,0,0,0,1,0,0
+2300000,Phoebe,I bet it has a great story behind it too.,0,0,0,0,1,0,0
+4000010,Phoebe,Did they tell you anything?,1,0,0,0,0,0,0
+5000000,Phoebe,Like yknow where it was from or,1,0,0,0,0,0,0
+2300000,Rachel,"Yes! That I know, this is from White Plains.",0,0,0,0,1,0,0
+2300000,Phoebe,"White Plains. Oh, it sounds like such a magical place.",0,0,0,0,1,0,0
+2110100,Chandler,"So, you still dont think Im boyfriend material?",0,0,0,0,0,0,0
+3000020,Monica,Huh?,1,0,0,0,0,0,0
+4100000,Chandler,I saw you checking me out during the game last night.,1,0,0,0,0,0,0
+0000410,Phoebe,"I, umm, shut up!",0,1,0,0,0,0,0
+0110210,Phoebe,Good-bye Phoebe and Ursula. Ill miss you. P.S. Your Mom lives in Montauk. You just wrote this!,0,0,0,0,0,0,0
+4000100,Ursula,"Well, its pretty much the gist. Well, except for the poem. You read the poem, right?",1,0,0,0,0,0,0
+1001120,Phoebe,Noooo!!,0,0,0,0,0,0,0
+3100010,Ursula,"All right, hang on!",1,0,0,0,0,0,0
+4100000,Monica,"Rachel, its going to happen. Chandler is gonna move in here.",1,0,0,0,0,0,0
+1011011,Rachel,But I,0,0,0,0,0,0,0
+3101000,Monica,"No-no, wait!",1,0,0,0,0,0,0
+2101100,Monica,"Just let me finish, okay?",0,0,0,0,0,0,0
+3100100,Monica,"This isnt something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",1,0,0,0,0,0,0
+5000000,Monica,And it,1,0,0,0,0,0,0
+0000050,Rachel,It is? Really?,0,0,0,0,0,0,1
+3200000,Monica,"Yeah, sweetie.",1,0,0,0,0,0,0
+0040010,Rachel,"I mean were not, were not gonna live together anymore?",0,0,0,0,0,1,0
+2030000,Monica,No.,0,0,0,0,0,1,0
+0040010,Rachel,What? Oh my God! Im gonna miss you so much!,0,0,0,0,0,1,0
+0050000,Monica,Im gonna miss you!,0,0,0,0,0,1,0
+0050000,Rachel,I mean its the end of an era!,0,0,0,0,0,1,0
+0040010,Monica,I know!,0,0,0,0,0,1,0
